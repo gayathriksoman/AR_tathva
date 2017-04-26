@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/res/merged/debug/menu/menu.xml",
+        "source": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/src/main/res/menu/menu.xml"
+    },
+    {
+        "merged": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/res/merged/debug/menu/mainmenu.xml",
+        "source": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/src/main/res/menu/mainmenu.xml"
+    }
+]
