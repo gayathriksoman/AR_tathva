@@ -8,11 +8,13 @@ import com.tathva.tathva_live.common.LowPassFilter;
 import com.tathva.tathva_live.common.Matrix;
 import com.tathva.tathva_live.data.ARData;
 
+import android.Manifest;
 import android.app.Activity;
 import android.app.AlertDialog;
 import android.content.Context;
 import android.content.DialogInterface;
 import android.content.Intent;
+import android.content.pm.PackageManager;
 import android.hardware.GeomagneticField;
 import android.hardware.Sensor;
 import android.hardware.SensorEvent;
@@ -23,11 +25,12 @@ import android.location.LocationListener;
 import android.location.LocationManager;
 import android.os.Bundle;
 //import android.util.FloatMath;
+import android.support.v4.app.ActivityCompat;
 import android.util.Log;
 
 /**
  * This class extends Activity and processes sensor data and location data.
- * 
+ *
  * @author Justin Wetherell <phishman3579@gmail.com>
  */
 public class SensorsActivity extends Activity implements SensorEventListener, LocationListener {
@@ -39,13 +42,13 @@ public class SensorsActivity extends Activity implements SensorEventListener, Lo
     private static final int MIN_DISTANCE = 10;
 
     private static final float temp[] = new float[9]; // Temporary rotation
-                                                      // matrix in Android
-                                                      // format
+    // matrix in Android
+    // format
     private static final float rotation[] = new float[9]; // Final rotation
-                                                          // matrix in Android
-                                                          // format
+    // matrix in Android
+    // format
     private static final float grav[] = new float[3]; // Gravity (a.k.a
-                                                      // accelerometer data)
+    // accelerometer data)
     private static final float mag[] = new float[3]; // Magnetic
     /*
      * Using Matrix operations instead. This was way too inaccurate, private
@@ -81,23 +84,23 @@ public class SensorsActivity extends Activity implements SensorEventListener, Lo
     public void onStart() {
         super.onStart();
 
-        float neg90rads = (float)Math.toRadians(-90);
+        float neg90rads = (float) Math.toRadians(-90);
 
         // Counter-clockwise rotation at -90 degrees around the x-axis
         // [ 1, 0, 0 ]
         // [ 0, cos, -sin ]
         // [ 0, sin, cos ]
-        xAxisRotation.set(1f, 0f,                    0f, 
-                          0f, FloatMath.cos(neg90rads), -FloatMath.sin(neg90rads), 
-                          0f, FloatMath.sin(neg90rads), FloatMath.cos(neg90rads));
+        xAxisRotation.set(1f, 0f, 0f,
+                0f, FloatMath.cos(neg90rads), -FloatMath.sin(neg90rads),
+                0f, FloatMath.sin(neg90rads), FloatMath.cos(neg90rads));
 
         // Counter-clockwise rotation at -90 degrees around the y-axis
         // [ cos,  0,   sin ]
         // [ 0,    1,   0   ]
         // [ -sin, 0,   cos ]
-        yAxisRotation.set(FloatMath.cos(neg90rads),  0f, FloatMath.sin(neg90rads),
-                          0f,                     1f, 0f,
-                          -FloatMath.sin(neg90rads), 0f, FloatMath.cos(neg90rads));
+        yAxisRotation.set(FloatMath.cos(neg90rads), 0f, FloatMath.sin(neg90rads),
+                0f, 1f, 0f,
+                -FloatMath.sin(neg90rads), 0f, FloatMath.cos(neg90rads));
 
         try {
             sensorMgr = (SensorManager) getSystemService(SENSOR_SERVICE);
@@ -114,13 +117,25 @@ public class SensorsActivity extends Activity implements SensorEventListener, Lo
             sensorMgr.registerListener(this, sensorMag, SensorManager.SENSOR_DELAY_GAME);
 
             locationMgr = (LocationManager) getSystemService(Context.LOCATION_SERVICE);
+            if (ActivityCompat.checkSelfPermission(this, Manifest.permission.ACCESS_FINE_LOCATION) != PackageManager.PERMISSION_GRANTED && ActivityCompat.checkSelfPermission(this, Manifest.permission.ACCESS_COARSE_LOCATION) != PackageManager.PERMISSION_GRANTED) {
+                // TODO: Consider calling
+                //    ActivityCompat#requestPermissions
+                // here to request the missing permissions, and then overriding
+                //   public void onRequestPermissionsResult(int requestCode, String[] permissions,
+                //                                          int[] grantResults)
+                // to handle the case where the user grants the permission. See the documentation
+                // for ActivityCompat#requestPermissions for more details.
+                return;
+            }
             locationMgr.requestLocationUpdates(LocationManager.GPS_PROVIDER, 0, 0, this);
             
 	            try {
-	
-	                try {
-	                    Location gps = null;//locationMgr.getLastKnownLocation(LocationManager.GPS_PROVIDER);
-	                    Location network = null;//locationMgr.getLastKnownLocation(LocationManager.NETWORK_PROVIDER);
+
+                    try {
+	                    Location gps = null;
+                        gps = locationMgr.getLastKnownLocation(LocationManager.GPS_PROVIDER);
+	                    Location network = null;
+                        network = locationMgr.getLastKnownLocation(LocationManager.NETWORK_PROVIDER);
 	                    if (gps != null) onLocationChanged(gps);
 	                    else if (network != null) onLocationChanged(network);
 	                    else onLocationChanged(ARData.hardFix);

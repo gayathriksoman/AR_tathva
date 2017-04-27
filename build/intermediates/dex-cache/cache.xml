@@ -3,6 +3,33 @@
 
     <item
         is-multidex="false"
+        jar="/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.2.0_f970e870dfa1b4b423c5d20d57e83c8e2dc0f686.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/pre-dexed/debug/com.android.support.constraint-constraint-layout-1.0.2_5f6e10a0f0219109372f3950ee0d5bd4630dcfd3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.2.0_7e1583cdbe7485138527ba3b4f403c337259751f.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.2.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -57,30 +84,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.2.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
-        <dex dex="/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.2.0_f970e870dfa1b4b423c5d20d57e83c8e2dc0f686.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/home/gayathri/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
         <dex dex="/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_9aa84333e5bf3ac4c522ba7c75c6342a0cfe4aea.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.2/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
-        <dex dex="/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/pre-dexed/debug/com.android.support.constraint-constraint-layout-1.0.2_5f6e10a0f0219109372f3950ee0d5bd4630dcfd3.jar" />
     </item>
     <item
         is-multidex="false"
@@ -99,15 +108,6 @@
         revision="25.0.2"
         sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
         <dex dex="/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.2.0_35aaf6ceb976188e127188f85aba3c5e11b78959.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.2.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
-        <dex dex="/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.2.0_7e1583cdbe7485138527ba3b4f403c337259751f.jar" />
     </item>
 
 </items>

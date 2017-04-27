@@ -57,10 +57,10 @@ uses-permission#android.permission.ACCESS_FINE_LOCATION
 ADDED from /home/gayathri/AndroidStudioProjects/TathvaLive-master/app/src/main/AndroidManifest.xml:13:5-78
 	android:name
 		ADDED from /home/gayathri/AndroidStudioProjects/TathvaLive-master/app/src/main/AndroidManifest.xml:13:22-76
-uses-permission#android.permission.ACCESS_CORSE_LOCATION
-ADDED from /home/gayathri/AndroidStudioProjects/TathvaLive-master/app/src/main/AndroidManifest.xml:14:5-79
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /home/gayathri/AndroidStudioProjects/TathvaLive-master/app/src/main/AndroidManifest.xml:14:5-80
 	android:name
-		ADDED from /home/gayathri/AndroidStudioProjects/TathvaLive-master/app/src/main/AndroidManifest.xml:14:22-77
+		ADDED from /home/gayathri/AndroidStudioProjects/TathvaLive-master/app/src/main/AndroidManifest.xml:14:22-78
 uses-permission#android.permission.WAKE_LOCK
 ADDED from /home/gayathri/AndroidStudioProjects/TathvaLive-master/app/src/main/AndroidManifest.xml:15:5-67
 	android:name

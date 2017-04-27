@@ -20,6 +20,10 @@
         "source": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/src/main/res/drawable/c_013.png"
     },
     {
+        "merged": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/res/merged/debug/drawable/main_clueless.png",
+        "source": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/src/main/res/drawable/main_clueless.png"
+    },
+    {
         "merged": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
         "source": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/drawable/abc_item_background_holo_light.xml"
     },
@@ -208,10 +212,6 @@
         "source": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/src/main/res/drawable/button_competition_selected.png"
     },
     {
-        "merged": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/res/merged/debug/drawable/main_spots.9.png",
-        "source": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/src/main/res/drawable/main_spots.9.png"
-    },
-    {
         "merged": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/res/merged/debug/drawable/l_018.png",
         "source": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/src/main/res/drawable/l_018.png"
     },
@@ -226,10 +226,6 @@
     {
         "merged": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/res/merged/debug/drawable/e_002.png",
         "source": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/src/main/res/drawable/e_002.png"
-    },
-    {
-        "merged": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/res/merged/debug/drawable/main_newsfeed.9.png",
-        "source": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/src/main/res/drawable/main_newsfeed.9.png"
     },
     {
         "merged": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/res/merged/debug/drawable/c_017.png",
@@ -276,6 +272,10 @@
         "source": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/src/main/res/drawable/frame_013.png"
     },
     {
+        "merged": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/res/merged/debug/drawable/main_newsfeed.png",
+        "source": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/src/main/res/drawable/main_newsfeed.png"
+    },
+    {
         "merged": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/res/merged/debug/drawable/e_001.png",
         "source": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/src/main/res/drawable/e_001.png"
     },
@@ -310,6 +310,10 @@
     {
         "merged": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/res/merged/debug/drawable/frame_012.png",
         "source": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/src/main/res/drawable/frame_012.png"
+    },
+    {
+        "merged": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/res/merged/debug/drawable/main_spots.png",
+        "source": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/src/main/res/drawable/main_spots.png"
     },
     {
         "merged": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/res/merged/debug/drawable/button_nite.xml",
@@ -360,16 +364,8 @@
         "source": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/src/main/res/drawable/e_020.png"
     },
     {
-        "merged": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/res/merged/debug/drawable/main_newsfeed_pressed.9.png",
-        "source": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/src/main/res/drawable/main_newsfeed_pressed.9.png"
-    },
-    {
         "merged": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/res/merged/debug/drawable/n_005.png",
         "source": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/src/main/res/drawable/n_005.png"
-    },
-    {
-        "merged": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/res/merged/debug/drawable/lect_name.9.png",
-        "source": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/src/main/res/drawable/lect_name.9.png"
     },
     {
         "merged": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/res/merged/debug/drawable/borderlocation.xml",
@@ -404,12 +400,12 @@
         "source": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/src/main/res/drawable/border2.xml"
     },
     {
-        "merged": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/res/merged/debug/drawable/button_exhibition_normal.png",
-        "source": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/src/main/res/drawable/button_exhibition_normal.png"
-    },
-    {
         "merged": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/res/merged/debug/drawable/button_lecture.xml",
         "source": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/src/main/res/drawable/button_lecture.xml"
+    },
+    {
+        "merged": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/res/merged/debug/drawable/button_exhibition_normal.png",
+        "source": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/src/main/res/drawable/button_exhibition_normal.png"
     },
     {
         "merged": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/res/merged/debug/drawable/dilaog_background.xml",
@@ -516,6 +512,10 @@
         "source": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/src/main/res/drawable/e_010.png"
     },
     {
+        "merged": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/res/merged/debug/drawable/main_spots_pressed.png",
+        "source": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/src/main/res/drawable/main_spots_pressed.png"
+    },
+    {
         "merged": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/res/merged/debug/drawable/c_009.png",
         "source": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/src/main/res/drawable/c_009.png"
     },
@@ -542,10 +542,6 @@
     {
         "merged": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/res/merged/debug/drawable/e_007.png",
         "source": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/src/main/res/drawable/e_007.png"
-    },
-    {
-        "merged": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/res/merged/debug/drawable/main_clueless.9.png",
-        "source": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/src/main/res/drawable/main_clueless.9.png"
     },
     {
         "merged": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/res/merged/debug/drawable/button_workshop_pressed.png",
@@ -592,12 +588,12 @@
         "source": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/src/main/res/drawable/n_015.png"
     },
     {
-        "merged": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/res/merged/debug/drawable/button_spot.xml",
-        "source": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/src/main/res/drawable/button_spot.xml"
-    },
-    {
         "merged": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/res/merged/debug/drawable/n_001.png",
         "source": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/src/main/res/drawable/n_001.png"
+    },
+    {
+        "merged": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/res/merged/debug/drawable/button_spot.xml",
+        "source": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/src/main/res/drawable/button_spot.xml"
     },
     {
         "merged": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
@@ -642,6 +638,10 @@
     {
         "merged": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/res/merged/debug/drawable/frame_023.png",
         "source": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/src/main/res/drawable/frame_023.png"
+    },
+    {
+        "merged": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/res/merged/debug/drawable/main_clueless_pressed.png",
+        "source": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/src/main/res/drawable/main_clueless_pressed.png"
     },
     {
         "merged": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/res/merged/debug/drawable/frame_018.png",
@@ -708,6 +708,10 @@
         "source": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/src/main/res/drawable/w_013.png"
     },
     {
+        "merged": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/res/merged/debug/drawable/button_update_normal.png",
+        "source": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/src/main/res/drawable/button_update_normal.png"
+    },
+    {
         "merged": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/res/merged/debug/drawable/frame_008.png",
         "source": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/src/main/res/drawable/frame_008.png"
     },
@@ -732,8 +736,16 @@
         "source": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/src/main/res/drawable/l_012.png"
     },
     {
+        "merged": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/res/merged/debug/drawable/exhi_name.png",
+        "source": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/src/main/res/drawable/exhi_name.png"
+    },
+    {
         "merged": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/res/merged/debug/drawable/button_exhibition_disabled.png",
         "source": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/src/main/res/drawable/button_exhibition_disabled.png"
+    },
+    {
+        "merged": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/res/merged/debug/drawable/lect_name.png",
+        "source": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/src/main/res/drawable/lect_name.png"
     },
     {
         "merged": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/res/merged/debug/drawable/n_003.png",
@@ -746,10 +758,6 @@
     {
         "merged": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/res/merged/debug/drawable/twitter.png",
         "source": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/src/main/res/drawable/twitter.png"
-    },
-    {
-        "merged": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/res/merged/debug/drawable/exhi_name.9.png",
-        "source": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/src/main/res/drawable/exhi_name.9.png"
     },
     {
         "merged": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/res/merged/debug/drawable/back.png",
@@ -772,16 +780,8 @@
         "source": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/drawable/abc_spinner_textfield_background_material.xml"
     },
     {
-        "merged": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/res/merged/debug/drawable/main_spots_pressed.9.png",
-        "source": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/src/main/res/drawable/main_spots_pressed.9.png"
-    },
-    {
         "merged": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/res/merged/debug/drawable/c_014.png",
         "source": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/src/main/res/drawable/c_014.png"
-    },
-    {
-        "merged": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/res/merged/debug/drawable/main_events.9.png",
-        "source": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/src/main/res/drawable/main_events.9.png"
     },
     {
         "merged": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/res/merged/debug/drawable/frame_014.png",
@@ -856,6 +856,10 @@
         "source": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/src/main/res/drawable/w_016.png"
     },
     {
+        "merged": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/res/merged/debug/drawable/main_events.png",
+        "source": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/src/main/res/drawable/main_events.png"
+    },
+    {
         "merged": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/res/merged/debug/drawable/button_lecture_disabled.png",
         "source": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/src/main/res/drawable/button_lecture_disabled.png"
     },
@@ -874,10 +878,6 @@
     {
         "merged": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/res/merged/debug/drawable/e_014.png",
         "source": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/src/main/res/drawable/e_014.png"
-    },
-    {
-        "merged": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/res/merged/debug/drawable/main_events_pressed.9.png",
-        "source": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/src/main/res/drawable/main_events_pressed.9.png"
     },
     {
         "merged": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/res/merged/debug/drawable/frame_026.png",
@@ -924,10 +924,6 @@
         "source": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/drawable/abc_ic_go_search_api_material.xml"
     },
     {
-        "merged": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/res/merged/debug/drawable/button_update_normal.9.png",
-        "source": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/src/main/res/drawable/button_update_normal.9.png"
-    },
-    {
         "merged": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/res/merged/debug/drawable/frame_010.png",
         "source": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/src/main/res/drawable/frame_010.png"
     },
@@ -958,6 +954,10 @@
     {
         "merged": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/res/merged/debug/drawable/c_016.png",
         "source": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/src/main/res/drawable/c_016.png"
+    },
+    {
+        "merged": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/res/merged/debug/drawable/main_events_pressed.png",
+        "source": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/src/main/res/drawable/main_events_pressed.png"
     },
     {
         "merged": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/res/merged/debug/drawable/e_004.png",
@@ -994,10 +994,6 @@
     {
         "merged": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/res/merged/debug/drawable/aoe.png",
         "source": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/src/main/res/drawable/aoe.png"
-    },
-    {
-        "merged": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/res/merged/debug/drawable/main_clueless_pressed.9.png",
-        "source": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/src/main/res/drawable/main_clueless_pressed.9.png"
     },
     {
         "merged": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/res/merged/debug/drawable/frame_000.png",
@@ -1040,12 +1036,12 @@
         "source": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/src/main/res/drawable/e_013.png"
     },
     {
-        "merged": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/res/merged/debug/drawable/abc_ic_search_api_material.xml",
-        "source": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/drawable/abc_ic_search_api_material.xml"
-    },
-    {
         "merged": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/res/merged/debug/drawable/button_workshop_normal.png",
         "source": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/src/main/res/drawable/button_workshop_normal.png"
+    },
+    {
+        "merged": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/res/merged/debug/drawable/abc_ic_search_api_material.xml",
+        "source": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/drawable/abc_ic_search_api_material.xml"
     },
     {
         "merged": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/res/merged/debug/drawable/frame_025.png",
@@ -1066,6 +1062,10 @@
     {
         "merged": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/res/merged/debug/drawable/frame_006.png",
         "source": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/src/main/res/drawable/frame_006.png"
+    },
+    {
+        "merged": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/res/merged/debug/drawable/main_newsfeed_pressed.png",
+        "source": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/src/main/res/drawable/main_newsfeed_pressed.png"
     },
     {
         "merged": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/res/merged/debug/drawable/n_017.png",
