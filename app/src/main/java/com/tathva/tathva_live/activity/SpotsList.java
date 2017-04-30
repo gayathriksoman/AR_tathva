@@ -163,7 +163,7 @@ public class SpotsList extends ExpandableListActivity {
 						else {
 							Intent nextScreen = new Intent(SpotsList.this, Demo.class);
 
-							nextScreen.putExtra(BUILDING, b);
+							nextScreen.putExtra("BUILDING", b);
 
 							startActivity(nextScreen);
 

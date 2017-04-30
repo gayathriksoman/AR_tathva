@@ -27,6 +27,7 @@ import android.os.Bundle;
 //import android.util.FloatMath;
 import android.support.v4.app.ActivityCompat;
 import android.util.Log;
+import android.widget.Toast;
 
 /**
  * This class extends Activity and processes sensor data and location data.
@@ -128,71 +129,75 @@ public class SensorsActivity extends Activity implements SensorEventListener, Lo
                 return;
             }
             locationMgr.requestLocationUpdates(LocationManager.GPS_PROVIDER, 0, 0, this);
-            
-	            try {
 
-                    try {
-	                    Location gps = null;
-                        gps = locationMgr.getLastKnownLocation(LocationManager.GPS_PROVIDER);
-	                    Location network = null;
-                        network = locationMgr.getLastKnownLocation(LocationManager.NETWORK_PROVIDER);
-	                    if (gps != null) onLocationChanged(gps);
-	                    else if (network != null) onLocationChanged(network);
-	                    else onLocationChanged(ARData.hardFix);
-	                } catch (Exception ex2) {
-	                    onLocationChanged(ARData.hardFix);
-	                }
-	
-	                gmf = new GeomagneticField((float) ARData.getCurrentLocation().getLatitude(), 
-	                                           (float) ARData.getCurrentLocation().getLongitude(),
-	                                           (float) ARData.getCurrentLocation().getAltitude(), 
-	                                           System.currentTimeMillis());
-	
-	                float dec = (float)Math.toRadians(-gmf.getDeclination());
-	
-	                synchronized (mageticNorthCompensation) {
-	                    // Identity matrix
-	                    // [ 1, 0, 0 ]
-	                    // [ 0, 1, 0 ]
-	                    // [ 0, 0, 1 ]
-	                    mageticNorthCompensation.toIdentity();
-	
-	                    // Counter-clockwise rotation at negative declination around
-	                    // the y-axis
-	                    // note: declination of the horizontal component of the
-	                    // magnetic field
-	                    // from true north, in degrees (i.e. positive means the
-	                    // magnetic
-	                    // field is rotated east that much from true north).
-	                    // note2: declination is the difference between true north
-	                    // and magnetic north
-	                    // [ cos, 0, sin ]
-	                    // [ 0, 1, 0 ]
-	                    // [ -sin, 0, cos ]
-	                    mageticNorthCompensation.set(FloatMath.cos(dec),     0f, FloatMath.sin(dec), 
-	                                                 0f,                     1f, 0f, 
-	                                                 -FloatMath.sin(dec), 0f, FloatMath.cos(dec));
-	                }
-	            } catch (Exception ex) {
-	                ex.printStackTrace();
-	            }
-	        } catch (Exception ex1) {
-	            try {
-	                if (sensorMgr != null) {
-	                    sensorMgr.unregisterListener(this, sensorGrav);
-	                    sensorMgr.unregisterListener(this, sensorMag);
-	                    sensorMgr = null;
-	                }
-	                if (locationMgr != null) {
-	                    locationMgr.removeUpdates(this);
-	                    locationMgr = null;
-	                }
-	            } catch (Exception ex2) {
-	                ex2.printStackTrace();
-	            }
-	        }
+            try {
+
+                try {
+                    Location gps = null;
+                    gps = locationMgr.getLastKnownLocation(LocationManager.GPS_PROVIDER);
+                    Location network = null;
+                    network = locationMgr.getLastKnownLocation(LocationManager.NETWORK_PROVIDER);
+                    if (gps != null) onLocationChanged(gps);
+                    else if (network != null) onLocationChanged(network);
+                    else onLocationChanged(ARData.hardFix);
+                } catch (Exception ex2) {
+                    Toast.makeText(this, "small catch", Toast.LENGTH_SHORT);
+                    onLocationChanged(ARData.hardFix);
+                }
+
+                gmf = new GeomagneticField((float) ARData.getCurrentLocation().getLatitude(),
+                        (float) ARData.getCurrentLocation().getLongitude(),
+                        (float) ARData.getCurrentLocation().getAltitude(),
+                        System.currentTimeMillis());
+
+                float dec = (float) Math.toRadians(-gmf.getDeclination());
+
+                synchronized (mageticNorthCompensation) {
+                    // Identity matrix
+                    // [ 1, 0, 0 ]
+                    // [ 0, 1, 0 ]
+                    // [ 0, 0, 1 ]
+                    mageticNorthCompensation.toIdentity();
+
+                    // Counter-clockwise rotation at negative declination around
+                    // the y-axis
+                    // note: declination of the horizontal component of the
+                    // magnetic field
+                    // from true north, in degrees (i.e. positive means the
+                    // magnetic
+                    // field is rotated east that much from true north).
+                    // note2: declination is the difference between true north
+                    // and magnetic north
+                    // [ cos, 0, sin ]
+                    // [ 0, 1, 0 ]
+                    // [ -sin, 0, cos ]
+                    mageticNorthCompensation.set(FloatMath.cos(dec), 0f, FloatMath.sin(dec),
+                            0f, 1f, 0f,
+                            -FloatMath.sin(dec), 0f, FloatMath.cos(dec));
+                }
+            } catch (Exception ex) {
+                Toast.makeText(this, "bigger catch", Toast.LENGTH_SHORT);
+                ex.printStackTrace();
+            }
+        } catch (Exception ex1) {
+            Toast.makeText(this, "korachoode bigger catch", Toast.LENGTH_SHORT);
+            try {
+                if (sensorMgr != null) {
+                    sensorMgr.unregisterListener(this, sensorGrav);
+                    sensorMgr.unregisterListener(this, sensorMag);
+                    sensorMgr = null;
+                }
+                if (locationMgr != null) {
+                    locationMgr.removeUpdates(this);
+                    locationMgr = null;
+                }
+            } catch (Exception ex2) {
+                Toast.makeText(this, "pinnem small catch", Toast.LENGTH_SHORT);
+                ex2.printStackTrace();
+            }
+        }
     }
-    
+
     /**
      * {@inheritDoc}
      */
@@ -293,7 +298,7 @@ public class SensorsActivity extends Activity implements SensorEventListener, Lo
 
         // Set the rotation matrix (used to translate all object from lat/lon to x/y/z)
         ARData.setRotationMatrix(magneticCompensatedCoord);
-        ARData.orientation=getResources().getConfiguration().orientation;
+        ARData.orientation = getResources().getConfiguration().orientation;
         computing.set(false);
     }
 
@@ -327,18 +332,18 @@ public class SensorsActivity extends Activity implements SensorEventListener, Lo
     @Override
     public void onLocationChanged(Location location) {
         ARData.setCurrentLocation(location);
-        gmf = new GeomagneticField((float) ARData.getCurrentLocation().getLatitude(), 
-                                   (float) ARData.getCurrentLocation().getLongitude(), 
-                                   (float) ARData.getCurrentLocation().getAltitude(), System.currentTimeMillis());
+        gmf = new GeomagneticField((float) ARData.getCurrentLocation().getLatitude(),
+                (float) ARData.getCurrentLocation().getLongitude(),
+                (float) ARData.getCurrentLocation().getAltitude(), System.currentTimeMillis());
 
-        float dec = (float)Math.toRadians(-gmf.getDeclination());
+        float dec = (float) Math.toRadians(-gmf.getDeclination());
 
         synchronized (mageticNorthCompensation) {
             mageticNorthCompensation.toIdentity();
 
             mageticNorthCompensation.set(FloatMath.cos(dec), 0f, FloatMath.sin(dec),
-                                         0f,                 1f, 0f, 
-                                         -FloatMath.sin(dec), 0f, FloatMath.cos(dec));
+                    0f, 1f, 0f,
+                    -FloatMath.sin(dec), 0f, FloatMath.cos(dec));
         }
     }
 
