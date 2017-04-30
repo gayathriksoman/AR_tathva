@@ -55,16 +55,7 @@ public class LocalDataSource extends DataSource {
 
     public List<Marker> getMarkers() {
     	
-    	
-    	
-    	
-    	
-    	
-    	
-    	
-    	
-    	
-    	
+
         /*Marker atl = new IconMarker("ATL ICON", 39.931228, -75.051262, 0, Color.DKGRAY, icon);
         cachedMarkers.add(atl);
 

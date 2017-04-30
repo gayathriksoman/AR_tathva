@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/res/merged/debug/mipmap-mdpi/nitc.png",
+        "source": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/src/main/res/mipmap-mdpi/nitc.png"
+    },
+    {
+        "merged": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/res/merged/debug/mipmap-mdpi/revelio_icon.png",
+        "source": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/src/main/res/mipmap-mdpi/revelio_icon.png"
+    }
+]
