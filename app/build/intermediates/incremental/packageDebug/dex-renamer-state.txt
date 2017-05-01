@@ -1,4 +1,4 @@
-#Sun Apr 30 22:10:35 IST 2017
-base.0=/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+#Mon May 01 04:40:54 IST 2017
+base.0=G\:\\STUDY\\vr\\AR_tathva\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
 renamed.0=classes.dex
-file.0=/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
+file.0=G\:\\STUDY\\vr\\AR_tathva\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

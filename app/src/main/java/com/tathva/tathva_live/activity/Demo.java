@@ -14,6 +14,7 @@ import android.annotation.SuppressLint;
 import android.app.AlertDialog;
 import android.app.Dialog;
 import android.app.ProgressDialog;
+import android.content.Context;
 import android.content.DialogInterface;
 import android.content.DialogInterface.OnCancelListener;
 import android.content.DialogInterface.OnShowListener;
@@ -76,6 +77,7 @@ public class Demo extends AugmentedReality {
     private static View youAreNotAtNitc;
     private static View youHaveReached;
     static LayoutParams augLayout;
+    static TextView buildingName;
     static TextView reachedMessage;
     static TextView notAtMessage;
     static boolean dialogShown = false;
@@ -83,6 +85,7 @@ public class Demo extends AugmentedReality {
    // public static TextView reached;
 
     private static AnimationDrawable gpsAnimation;
+    public static Context context;
 
     /**
      * {@inheritDoc}
@@ -90,6 +93,8 @@ public class Demo extends AugmentedReality {
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+
+        Demo.context = getApplicationContext();
 
         // Create toast
         myToast = new Toast(getApplicationContext());
@@ -128,6 +133,8 @@ public class Demo extends AugmentedReality {
 
         int buildingNo = localData.getBuildingNo(building);
 
+
+
         connectingDialog = getLayoutInflater()
                 .inflate(R.layout.alertview, null);
         youAreNotAtNitc = getLayoutInflater().inflate(R.layout.notatnit2, null);
@@ -147,6 +154,7 @@ public class Demo extends AugmentedReality {
         gpsImage.setBackgroundResource(R.drawable.gpsanimation);
 
         reachedMessage = (TextView) findViewById(R.id.reachedmessage);
+        buildingName = (TextView) findViewById(R.id.name);
         //notAtMessage=(TextView) findViewById(R.id.notatmessage);
         buildingImage = (ImageView) findViewById(R.id.reachedimage);
         String generatedString = "building_";
@@ -208,9 +216,14 @@ public class Demo extends AugmentedReality {
         } else if (accuracy == -20) {
             connectingDialog.setVisibility(View.INVISIBLE);
             youAreNotAtNitc.setVisibility(View.INVISIBLE);
-            youHaveReached.setVisibility(View.VISIBLE);
+            //youHaveReached.setVisibility(View.VISIBLE);
          //   reached.setVisibility(View.VISIBLE);
-            reachedMessage.setText("You have Reached " + building + " ");
+
+            LocalDataSource localData = new LocalDataSource(getAppContext().getResources(),
+                    getAppContext(), building.toLowerCase());
+            ARData.addMarkers(localData.getMarkerDB(building));
+            //reachedMessage.setText("You have Reached " + building + " ");
+            buildingName.setText(building);
             dialogShown = false;
             pdialog.hide();
 
@@ -260,6 +273,10 @@ public class Demo extends AugmentedReality {
         youAreNotAtNitc.setVisibility(View.INVISIBLE);
         youHaveReached.setVisibility(View.INVISIBLE);
 
+    }
+
+    public static Context getAppContext() {
+        return Demo.context;
     }
 
     /**

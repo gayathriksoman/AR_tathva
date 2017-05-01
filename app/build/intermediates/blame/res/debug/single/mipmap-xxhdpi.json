@@ -1,14 +1,26 @@
 [
     {
-        "merged": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/nitc.png",
-        "source": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/src/main/res/mipmap-xxhdpi/nitc.png"
+        "merged": "G:\\STUDY\\vr\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\revelio_icon.png",
+        "source": "G:\\STUDY\\vr\\AR_tathva\\app\\src\\main\\res\\mipmap-xxhdpi\\revelio_icon.png"
     },
     {
-        "merged": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/revelio_icon.png",
-        "source": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/src/main/res/mipmap-xxhdpi/revelio_icon.png"
+        "merged": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\nitc.png",
+        "source": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\src\\main\\res\\mipmap-xxhdpi\\nitc.png"
     },
     {
-        "merged": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/nitc1.png",
-        "source": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/src/main/res/mipmap-xxhdpi/nitc1.png"
+        "merged": "G:\\STUDY\\vr\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\nitc1.png",
+        "source": "G:\\STUDY\\vr\\AR_tathva\\app\\src\\main\\res\\mipmap-xxhdpi\\nitc1.png"
+    },
+    {
+        "merged": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\nitc1.png",
+        "source": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\src\\main\\res\\mipmap-xxhdpi\\nitc1.png"
+    },
+    {
+        "merged": "G:\\STUDY\\vr\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\nitc.png",
+        "source": "G:\\STUDY\\vr\\AR_tathva\\app\\src\\main\\res\\mipmap-xxhdpi\\nitc.png"
+    },
+    {
+        "merged": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\revelio_icon.png",
+        "source": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\src\\main\\res\\mipmap-xxhdpi\\revelio_icon.png"
     }
 ]

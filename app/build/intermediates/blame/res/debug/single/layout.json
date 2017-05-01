@@ -1,226 +1,450 @@
 [
     {
-        "merged": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
-        "source": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/layout/abc_screen_content_include.xml"
+        "merged": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\abc_list_menu_item_radio.xml"
     },
     {
-        "merged": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
-        "source": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/layout/abc_select_dialog_material.xml"
+        "merged": "G:\\STUDY\\vr\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "G:\\STUDY\\vr\\AR_tathva\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
     },
     {
-        "merged": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
-        "source": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/layout/notification_template_icon_group.xml"
+        "merged": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
     },
     {
-        "merged": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
-        "source": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/layout/abc_search_view.xml"
+        "merged": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
     },
     {
-        "merged": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/res/merged/debug/layout/notatnit.xml",
-        "source": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/src/main/res/layout/notatnit.xml"
+        "merged": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
     },
     {
-        "merged": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
-        "source": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/layout/select_dialog_item_material.xml"
+        "merged": "G:\\STUDY\\vr\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "G:\\STUDY\\vr\\AR_tathva\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
     },
     {
-        "merged": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
-        "source": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/layout/select_dialog_multichoice_material.xml"
+        "merged": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\abc_expanded_menu_layout.xml"
     },
     {
-        "merged": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
-        "source": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/layout/abc_popup_menu_header_item_layout.xml"
+        "merged": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\notification_template_part_chronometer.xml"
     },
     {
-        "merged": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
-        "source": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/layout/abc_list_menu_item_layout.xml"
+        "merged": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\abc_action_mode_bar.xml"
     },
     {
-        "merged": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/res/merged/debug/layout/one_news.xml",
-        "source": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/src/main/res/layout/one_news.xml"
+        "merged": "G:\\STUDY\\vr\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\layout\\simple_list_item1.xml",
+        "source": "G:\\STUDY\\vr\\AR_tathva\\app\\src\\main\\res\\layout\\simple_list_item1.xml"
     },
     {
-        "merged": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
-        "source": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/layout/abc_action_mode_close_item_material.xml"
+        "merged": "G:\\STUDY\\vr\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "G:\\STUDY\\vr\\AR_tathva\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\abc_action_mode_close_item_material.xml"
     },
     {
-        "merged": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/res/merged/debug/layout/one_location.xml",
-        "source": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/src/main/res/layout/one_location.xml"
+        "merged": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
     },
     {
-        "merged": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
-        "source": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/layout/abc_popup_menu_item_layout.xml"
+        "merged": "G:\\STUDY\\vr\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "G:\\STUDY\\vr\\AR_tathva\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\abc_screen_content_include.xml"
     },
     {
-        "merged": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/res/merged/debug/layout/notification_template_custom_big.xml",
-        "source": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/layout/notification_template_custom_big.xml"
+        "merged": "G:\\STUDY\\vr\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "G:\\STUDY\\vr\\AR_tathva\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\select_dialog_singlechoice_material.xml"
     },
     {
-        "merged": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
-        "source": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/layout/abc_screen_simple.xml"
+        "merged": "G:\\STUDY\\vr\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "G:\\STUDY\\vr\\AR_tathva\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\abc_screen_simple.xml"
     },
     {
-        "merged": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/res/merged/debug/layout/activity_home.xml",
-        "source": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/src/main/res/layout/activity_home.xml"
+        "merged": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\abc_select_dialog_material.xml"
     },
     {
-        "merged": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/res/merged/debug/layout/activity_how_to.xml",
-        "source": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/src/main/res/layout/activity_how_to.xml"
+        "merged": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\abc_alert_dialog_title_material.xml"
     },
     {
-        "merged": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/res/merged/debug/layout/text1.xml",
-        "source": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/src/main/res/layout/text1.xml"
+        "merged": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\abc_alert_dialog_material.xml"
     },
     {
-        "merged": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
-        "source": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/layout/abc_alert_dialog_material.xml"
+        "merged": "G:\\STUDY\\vr\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "G:\\STUDY\\vr\\AR_tathva\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\abc_action_mode_bar.xml"
     },
     {
-        "merged": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
-        "source": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/layout/support_simple_spinner_dropdown_item.xml"
+        "merged": "G:\\STUDY\\vr\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\layout\\alertview.xml",
+        "source": "G:\\STUDY\\vr\\AR_tathva\\app\\src\\main\\res\\layout\\alertview.xml"
     },
     {
-        "merged": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
-        "source": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/layout/abc_action_menu_layout.xml"
+        "merged": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
     },
     {
-        "merged": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/res/merged/debug/layout/alertview.xml",
-        "source": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/src/main/res/layout/alertview.xml"
+        "merged": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_maps.xml",
+        "source": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\src\\main\\res\\layout\\activity_maps.xml"
     },
     {
-        "merged": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
-        "source": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/layout/abc_action_menu_item_layout.xml"
+        "merged": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\abc_screen_content_include.xml"
     },
     {
-        "merged": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
-        "source": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/layout/abc_search_dropdown_item_icons_2line.xml"
+        "merged": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\abc_dialog_title_material.xml"
     },
     {
-        "merged": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/res/merged/debug/layout/homelayout.xml",
-        "source": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/src/main/res/layout/homelayout.xml"
+        "merged": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\select_dialog_singlechoice_material.xml"
     },
     {
-        "merged": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
-        "source": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/layout/select_dialog_singlechoice_material.xml"
+        "merged": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\abc_popup_menu_item_layout.xml"
     },
     {
-        "merged": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
-        "source": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/layout/abc_expanded_menu_layout.xml"
+        "merged": "G:\\STUDY\\vr\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "G:\\STUDY\\vr\\AR_tathva\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\abc_select_dialog_material.xml"
     },
     {
-        "merged": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
-        "source": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/layout/abc_action_bar_title_item.xml"
+        "merged": "G:\\STUDY\\vr\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home.xml",
+        "source": "G:\\STUDY\\vr\\AR_tathva\\app\\src\\main\\res\\layout\\activity_home.xml"
     },
     {
-        "merged": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
-        "source": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/layout/abc_action_bar_view_list_nav_layout.xml"
+        "merged": "G:\\STUDY\\vr\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "G:\\STUDY\\vr\\AR_tathva\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\abc_popup_menu_header_item_layout.xml"
     },
     {
-        "merged": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
-        "source": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/layout/abc_list_menu_item_radio.xml"
+        "merged": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\abc_action_bar_title_item.xml"
     },
     {
-        "merged": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/res/merged/debug/layout/notification_action.xml",
-        "source": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/layout/notification_action.xml"
+        "merged": "G:\\STUDY\\vr\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\layout\\homelayout.xml",
+        "source": "G:\\STUDY\\vr\\AR_tathva\\app\\src\\main\\res\\layout\\homelayout.xml"
     },
     {
-        "merged": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/res/merged/debug/layout/gps_reached.xml",
-        "source": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/src/main/res/layout/gps_reached.xml"
+        "merged": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\simple_list_item1.xml",
+        "source": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\src\\main\\res\\layout\\simple_list_item1.xml"
     },
     {
-        "merged": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
-        "source": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/layout/abc_action_mode_bar.xml"
+        "merged": "G:\\STUDY\\vr\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "G:\\STUDY\\vr\\AR_tathva\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\abc_activity_chooser_view.xml"
     },
     {
-        "merged": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/res/merged/debug/layout/spotsatnitc.xml",
-        "source": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/src/main/res/layout/spotsatnitc.xml"
+        "merged": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\gps_reached.xml",
+        "source": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\src\\main\\res\\layout\\gps_reached.xml"
     },
     {
-        "merged": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/res/merged/debug/layout/dialog.xml",
-        "source": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/src/main/res/layout/dialog.xml"
+        "merged": "G:\\STUDY\\vr\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\layout\\text1.xml",
+        "source": "G:\\STUDY\\vr\\AR_tathva\\app\\src\\main\\res\\layout\\text1.xml"
     },
     {
-        "merged": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
-        "source": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/layout/abc_activity_chooser_view_list_item.xml"
+        "merged": "G:\\STUDY\\vr\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\layout\\gps_reached.xml",
+        "source": "G:\\STUDY\\vr\\AR_tathva\\app\\src\\main\\res\\layout\\gps_reached.xml"
     },
     {
-        "merged": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
-        "source": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/layout/abc_action_bar_up_container.xml"
+        "merged": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\notification_action.xml"
     },
     {
-        "merged": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
-        "source": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/layout/abc_alert_dialog_title_material.xml"
+        "merged": "G:\\STUDY\\vr\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "G:\\STUDY\\vr\\AR_tathva\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\abc_alert_dialog_title_material.xml"
     },
     {
-        "merged": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/res/merged/debug/layout/simple_list_item1.xml",
-        "source": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/src/main/res/layout/simple_list_item1.xml"
+        "merged": "G:\\STUDY\\vr\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "G:\\STUDY\\vr\\AR_tathva\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\abc_list_menu_item_icon.xml"
     },
     {
-        "merged": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/res/merged/debug/layout/activity_maps.xml",
-        "source": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/src/main/res/layout/activity_maps.xml"
+        "merged": "G:\\STUDY\\vr\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_custom_big.xml",
+        "source": "G:\\STUDY\\vr\\AR_tathva\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\notification_template_custom_big.xml"
     },
     {
-        "merged": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/res/merged/debug/layout/notatnit2.xml",
-        "source": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/src/main/res/layout/notatnit2.xml"
+        "merged": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\notification_template_lines_media.xml"
     },
     {
-        "merged": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
-        "source": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/layout/notification_template_lines_media.xml"
+        "merged": "G:\\STUDY\\vr\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notatnit2.xml",
+        "source": "G:\\STUDY\\vr\\AR_tathva\\app\\src\\main\\res\\layout\\notatnit2.xml"
     },
     {
-        "merged": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
-        "source": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/layout/abc_activity_chooser_view.xml"
+        "merged": "G:\\STUDY\\vr\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\layout\\splashloadingscreen.xml",
+        "source": "G:\\STUDY\\vr\\AR_tathva\\app\\src\\main\\res\\layout\\splashloadingscreen.xml"
     },
     {
-        "merged": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
-        "source": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/layout/abc_screen_toolbar.xml"
+        "merged": "G:\\STUDY\\vr\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_maps.xml",
+        "source": "G:\\STUDY\\vr\\AR_tathva\\app\\src\\main\\res\\layout\\activity_maps.xml"
     },
     {
-        "merged": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
-        "source": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/layout/notification_template_part_time.xml"
+        "merged": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\select_dialog_multichoice_material.xml"
     },
     {
-        "merged": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
-        "source": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/layout/notification_template_media_custom.xml"
+        "merged": "G:\\STUDY\\vr\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog.xml",
+        "source": "G:\\STUDY\\vr\\AR_tathva\\app\\src\\main\\res\\layout\\dialog.xml"
     },
     {
-        "merged": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/res/merged/debug/layout/splashloadingscreen.xml",
-        "source": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/src/main/res/layout/splashloadingscreen.xml"
+        "merged": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\notification_template_media_custom.xml"
     },
     {
-        "merged": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
-        "source": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/layout/abc_list_menu_item_checkbox.xml"
+        "merged": "G:\\STUDY\\vr\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "G:\\STUDY\\vr\\AR_tathva\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\abc_list_menu_item_radio.xml"
     },
     {
-        "merged": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
-        "source": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/layout/abc_list_menu_item_icon.xml"
+        "merged": "G:\\STUDY\\vr\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "G:\\STUDY\\vr\\AR_tathva\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
     },
     {
-        "merged": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
-        "source": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/layout/notification_action_tombstone.xml"
+        "merged": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\notification_template_icon_group.xml"
     },
     {
-        "merged": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
-        "source": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/layout/abc_dialog_title_material.xml"
+        "merged": "G:\\STUDY\\vr\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "G:\\STUDY\\vr\\AR_tathva\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
     },
     {
-        "merged": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
-        "source": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/layout/notification_template_part_chronometer.xml"
+        "merged": "G:\\STUDY\\vr\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\layout\\gpsreached2.xml",
+        "source": "G:\\STUDY\\vr\\AR_tathva\\app\\src\\main\\res\\layout\\gpsreached2.xml"
     },
     {
-        "merged": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
-        "source": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/layout/abc_alert_dialog_button_bar_material.xml"
+        "merged": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
     },
     {
-        "merged": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
-        "source": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/layout/abc_screen_simple_overlay_action_mode.xml"
+        "merged": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\notification_action_tombstone.xml"
     },
     {
-        "merged": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/res/merged/debug/layout/gpsreached2.xml",
-        "source": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/src/main/res/layout/gpsreached2.xml"
+        "merged": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\abc_search_view.xml"
     },
     {
-        "merged": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
-        "source": "/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/layout/notification_template_media.xml"
+        "merged": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "G:\\STUDY\\vr\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "G:\\STUDY\\vr\\AR_tathva\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\text1.xml",
+        "source": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\src\\main\\res\\layout\\text1.xml"
+    },
+    {
+        "merged": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home.xml",
+        "source": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog.xml",
+        "source": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\src\\main\\res\\layout\\dialog.xml"
+    },
+    {
+        "merged": "G:\\STUDY\\vr\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "G:\\STUDY\\vr\\AR_tathva\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "G:\\STUDY\\vr\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "G:\\STUDY\\vr\\AR_tathva\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "G:\\STUDY\\vr\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "G:\\STUDY\\vr\\AR_tathva\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "G:\\STUDY\\vr\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "G:\\STUDY\\vr\\AR_tathva\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notatnit.xml",
+        "source": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\src\\main\\res\\layout\\notatnit.xml"
+    },
+    {
+        "merged": "G:\\STUDY\\vr\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\layout\\one_news.xml",
+        "source": "G:\\STUDY\\vr\\AR_tathva\\app\\src\\main\\res\\layout\\one_news.xml"
+    },
+    {
+        "merged": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\spotsatnitc.xml",
+        "source": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\src\\main\\res\\layout\\spotsatnitc.xml"
+    },
+    {
+        "merged": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\splashloadingscreen.xml",
+        "source": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\src\\main\\res\\layout\\splashloadingscreen.xml"
+    },
+    {
+        "merged": "G:\\STUDY\\vr\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "G:\\STUDY\\vr\\AR_tathva\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "G:\\STUDY\\vr\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "G:\\STUDY\\vr\\AR_tathva\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "G:\\STUDY\\vr\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "G:\\STUDY\\vr\\AR_tathva\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "G:\\STUDY\\vr\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "G:\\STUDY\\vr\\AR_tathva\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "G:\\STUDY\\vr\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "G:\\STUDY\\vr\\AR_tathva\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "G:\\STUDY\\vr\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "G:\\STUDY\\vr\\AR_tathva\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "G:\\STUDY\\vr\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "G:\\STUDY\\vr\\AR_tathva\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "G:\\STUDY\\vr\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "G:\\STUDY\\vr\\AR_tathva\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\one_location.xml",
+        "source": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\src\\main\\res\\layout\\one_location.xml"
+    },
+    {
+        "merged": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "G:\\STUDY\\vr\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "G:\\STUDY\\vr\\AR_tathva\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "G:\\STUDY\\vr\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "G:\\STUDY\\vr\\AR_tathva\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\gpsreached2.xml",
+        "source": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\src\\main\\res\\layout\\gpsreached2.xml"
+    },
+    {
+        "merged": "G:\\STUDY\\vr\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notatnit.xml",
+        "source": "G:\\STUDY\\vr\\AR_tathva\\app\\src\\main\\res\\layout\\notatnit.xml"
+    },
+    {
+        "merged": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\alertview.xml",
+        "source": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\src\\main\\res\\layout\\alertview.xml"
+    },
+    {
+        "merged": "G:\\STUDY\\vr\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "G:\\STUDY\\vr\\AR_tathva\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "G:\\STUDY\\vr\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "G:\\STUDY\\vr\\AR_tathva\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "G:\\STUDY\\vr\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_how_to.xml",
+        "source": "G:\\STUDY\\vr\\AR_tathva\\app\\src\\main\\res\\layout\\activity_how_to.xml"
+    },
+    {
+        "merged": "G:\\STUDY\\vr\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "G:\\STUDY\\vr\\AR_tathva\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_how_to.xml",
+        "source": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\src\\main\\res\\layout\\activity_how_to.xml"
+    },
+    {
+        "merged": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_custom_big.xml",
+        "source": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "G:\\STUDY\\vr\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "G:\\STUDY\\vr\\AR_tathva\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\homelayout.xml",
+        "source": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\src\\main\\res\\layout\\homelayout.xml"
+    },
+    {
+        "merged": "G:\\STUDY\\vr\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "G:\\STUDY\\vr\\AR_tathva\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\one_news.xml",
+        "source": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\src\\main\\res\\layout\\one_news.xml"
+    },
+    {
+        "merged": "G:\\STUDY\\vr\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "G:\\STUDY\\vr\\AR_tathva\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "G:\\STUDY\\vr\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\layout\\one_location.xml",
+        "source": "G:\\STUDY\\vr\\AR_tathva\\app\\src\\main\\res\\layout\\one_location.xml"
+    },
+    {
+        "merged": "G:\\STUDY\\vr\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "G:\\STUDY\\vr\\AR_tathva\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "G:\\STUDY\\vr\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "G:\\STUDY\\vr\\AR_tathva\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "G:\\STUDY\\vr\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "G:\\STUDY\\vr\\AR_tathva\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notatnit2.xml",
+        "source": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\src\\main\\res\\layout\\notatnit2.xml"
+    },
+    {
+        "merged": "G:\\STUDY\\vr\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\layout\\spotsatnitc.xml",
+        "source": "G:\\STUDY\\vr\\AR_tathva\\app\\src\\main\\res\\layout\\spotsatnitc.xml"
     }
 ]

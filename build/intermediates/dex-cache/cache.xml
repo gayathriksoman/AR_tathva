@@ -3,147 +3,147 @@
 
     <item
         is-multidex="false"
-        jar="/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.2/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
-        <dex dex="/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/pre-dexed/debug/com.android.support.constraint-constraint-layout-1.0.2_5f6e10a0f0219109372f3950ee0d5bd4630dcfd3.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.2.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
-        <dex dex="/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.2.0_7e1583cdbe7485138527ba3b4f403c337259751f.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.2.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
-        <dex dex="/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.2.0_6b09e294e6c3c77100fb0abcf8ed275313c6673e.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.2.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
-        <dex dex="/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.2.0_1872c3fba1830d5535e4e27c57a413ff0d941545.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/gayathri/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
-        <dex dex="/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/pre-dexed/debug/support-annotations-25.2.0_9d157eef655f73167c06193767ea594c75d5df15.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.2.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
-        <dex dex="/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.2.0_f1b786486e2df2de3f5c6e8db4a505e6cb433c7e.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.2.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
-        <dex dex="/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.2.0_f970e870dfa1b4b423c5d20d57e83c8e2dc0f686.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="3d13e510077b35fe8e49930a627dd849ad5da0dc">
-        <dex dex="/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-10.2.0_2e6b97dd72b6c881889b89c0bad1b8180d5ddc0a.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.2.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.2.0_a17b2dc88e77af051b122f9ec5852402dbac3f4f.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.2.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
-        <dex dex="/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.2.0_9e6e7afc9b908625fc5a99bce1e070982cc31933.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.2.0/jars/classes.jar"
+        jar="G:\STUDY\vr\AR_tathva\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.2.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="bd75f9f0296fe220da6d0ad961831b04541c4452">
-        <dex dex="/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-10.2.0_8a5acdf6af4f995aeda300556aa58bd8740e5923.jar" />
+        <dex dex="G:\STUDY\vr\AR_tathva\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-10.2.0_9a5747d363f7b92cda600a4f6dff0cccd2e2fc30.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.2.0/jars/classes.jar"
+        jar="G:\STUDY\vr\AR_tathva\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.2.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="1ac56e5801e986583cbe27f2cce57f626cc7ff93">
-        <dex dex="/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-10.2.0_92cecba5328bf8ec86d69b5b98e72dca55a6b0fc.jar" />
+        sha1="3d13e510077b35fe8e49930a627dd849ad5da0dc">
+        <dex dex="G:\STUDY\vr\AR_tathva\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-10.2.0_105180eaaddeddb39ee8c54c99d41bbbd950550b.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/gayathri/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="G:\STUDY\vr\AR_tathva\app\build\intermediates\pre-dexed\debug\support-annotations-25.2.0_9e24f7f490ed7547b7a2f62d633493984da9695f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
-        <dex dex="/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_9aa84333e5bf3ac4c522ba7c75c6342a0cfe4aea.jar" />
+        <dex dex="G:\STUDY\vr\AR_tathva\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_dce0f5dc4ec87302d879250c45fe5f3f72f02917.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/jars/classes.jar"
+        jar="G:\STUDY\vr\AR_tathva\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.2.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
-        <dex dex="/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.2.0_68a82fcc0bdd0f7410b641a951f1376ef76733c2.jar" />
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="G:\STUDY\vr\AR_tathva\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.2.0_003d681e78539ca28310cbbb0dcebd2b10274b0c.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/10.2.0/jars/classes.jar"
+        jar="G:\STUDY\vr\AR_tathva\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="G:\STUDY\vr\AR_tathva\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.2.0_9e9ac447729fc19d9ba11a8b02c759e1811a663f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\STUDY\vr\AR_tathva\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.2.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="6da05b7498da036b5b37c3beb861cd2060929dcd">
-        <dex dex="/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-maps-10.2.0_ce4fbb401b5c325bf82e518c3cb042d364530b98.jar" />
+        <dex dex="G:\STUDY\vr\AR_tathva\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-maps-10.2.0_0e54c120faf7c94e8753dbb397a9ebc0c601ff80.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.2.0/jars/classes.jar"
+        jar="G:\STUDY\vr\AR_tathva\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="G:\STUDY\vr\AR_tathva\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.2.0_0c0dcc633369dfbcb5e97207a2a9927296ae4b67.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\STUDY\vr\AR_tathva\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="G:\STUDY\vr\AR_tathva\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.2.0_ed5e7dd085d1795c2aaf83d18a1a050fbb6ccd7d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\STUDY\vr\AR_tathva\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
-        <dex dex="/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.2.0_35aaf6ceb976188e127188f85aba3c5e11b78959.jar" />
+        <dex dex="G:\STUDY\vr\AR_tathva\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.2.0_6ba5991c105f118725d8fa5c97c63524e9e20616.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\STUDY\vr\AR_tathva\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1ac56e5801e986583cbe27f2cce57f626cc7ff93">
+        <dex dex="G:\STUDY\vr\AR_tathva\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-10.2.0_267547b5035bbee3b0f1c0e46bd2b89761723ffe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\STUDY\vr\AR_tathva\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="G:\STUDY\vr\AR_tathva\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.2.0_e067fa397f6a176e6888b791164d15bf8afad2a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\STUDY\vr\AR_tathva\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="G:\STUDY\vr\AR_tathva\app\build\intermediates\pre-dexed\debug\com.android.support.constraint-constraint-layout-1.0.2_7af0a1e314e3b938efb285f46e10a7b06ba6de9a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\STUDY\vr\AR_tathva\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="G:\STUDY\vr\AR_tathva\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.2.0_500021dac3aa17c4e6be3e5e47817f3ef780f9bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\STUDY\vr\AR_tathva\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="G:\STUDY\vr\AR_tathva\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.2.0_d6a90685d371d142eae51ed0fc145e3a490109af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\STUDY\vr\AR_tathva\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="G:\STUDY\vr\AR_tathva\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.2.0_143813cfb3e9104cc1b812f7416cbe3db00d5429.jar" />
     </item>
 
 </items>

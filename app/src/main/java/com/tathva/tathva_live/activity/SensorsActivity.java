@@ -70,6 +70,7 @@ public class SensorsActivity extends Activity implements SensorEventListener, Lo
     private static Sensor sensorMag = null;
     private static LocationManager locationMgr = null;
 
+
     /**
      * {@inheritDoc}
      */

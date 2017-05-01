@@ -9,6 +9,7 @@ import android.database.Cursor;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
 import android.graphics.Color;
+import android.util.Log;
 
 import com.tathva.tathva_live.R;
 import com.tathva.tathva_live.activity.DataBaseHelper;
@@ -36,6 +37,7 @@ public class LocalDataSource extends DataSource {
     	
     	this.context=context;
     	this.imageName=imageName;
+		Log.d("hello", imageName);
     	dbHelper =new DataBaseHelper(this.context);
         if (res == null) throw new NullPointerException();
 
