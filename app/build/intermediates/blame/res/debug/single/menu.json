@@ -1,18 +1,10 @@
 [
     {
-        "merged": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\mainmenu.xml",
-        "source": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\src\\main\\res\\menu\\mainmenu.xml"
+        "merged": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\menu\\mainmenu.xml",
+        "source": "C:\\Development\\AR_tathva\\app\\src\\main\\res\\menu\\mainmenu.xml"
     },
     {
-        "merged": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu.xml",
-        "source": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\src\\main\\res\\menu\\menu.xml"
-    },
-    {
-        "merged": "G:\\STUDY\\vr\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\menu\\mainmenu.xml",
-        "source": "G:\\STUDY\\vr\\AR_tathva\\app\\src\\main\\res\\menu\\mainmenu.xml"
-    },
-    {
-        "merged": "G:\\STUDY\\vr\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu.xml",
-        "source": "G:\\STUDY\\vr\\AR_tathva\\app\\src\\main\\res\\menu\\menu.xml"
+        "merged": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu.xml",
+        "source": "C:\\Development\\AR_tathva\\app\\src\\main\\res\\menu\\menu.xml"
     }
 ]

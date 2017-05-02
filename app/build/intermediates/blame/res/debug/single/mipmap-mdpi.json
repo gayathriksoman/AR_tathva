@@ -1,18 +1,10 @@
 [
     {
-        "merged": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\revelio_icon.png",
-        "source": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\src\\main\\res\\mipmap-mdpi\\revelio_icon.png"
+        "merged": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\nitc.png",
+        "source": "C:\\Development\\AR_tathva\\app\\src\\main\\res\\mipmap-mdpi\\nitc.png"
     },
     {
-        "merged": "G:\\STUDY\\vr\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\revelio_icon.png",
-        "source": "G:\\STUDY\\vr\\AR_tathva\\app\\src\\main\\res\\mipmap-mdpi\\revelio_icon.png"
-    },
-    {
-        "merged": "G:\\STUDY\\vr\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\nitc.png",
-        "source": "G:\\STUDY\\vr\\AR_tathva\\app\\src\\main\\res\\mipmap-mdpi\\nitc.png"
-    },
-    {
-        "merged": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\nitc.png",
-        "source": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\src\\main\\res\\mipmap-mdpi\\nitc.png"
+        "merged": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\revelio_icon.png",
+        "source": "C:\\Development\\AR_tathva\\app\\src\\main\\res\\mipmap-mdpi\\revelio_icon.png"
     }
 ]

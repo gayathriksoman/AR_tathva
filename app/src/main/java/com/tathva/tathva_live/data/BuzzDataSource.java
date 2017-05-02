@@ -17,7 +17,7 @@ import com.tathva.tathva_live.ui.Marker;
 
 /**
  * This class extends DataSource to fetch data from Google Buzz.
- * 
+ *
  * @author Justin Wetherell <phishman3579@gmail.com>
  */
 public class BuzzDataSource extends NetworkDataSource {

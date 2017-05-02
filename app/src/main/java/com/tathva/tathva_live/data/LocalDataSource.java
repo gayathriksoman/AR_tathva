@@ -125,10 +125,33 @@ public class LocalDataSource extends DataSource {
 		dbHelper.openDataBase();
 		Cursor cursor=dbHelper.getMarkerDB(building);
 		cursor.moveToFirst();
+
+
 		Marker marker=new IconMarker(building,cursor.getFloat(cursor.getColumnIndex("latitude")),
 		cursor.getFloat(cursor.getColumnIndex("longitude")),0,Color.DKGRAY,icon);
+
+//		Marker marker=new IconMarker(cursor,cursor.getFloat(cursor.getColumnIndex("latitude")),
+//				cursor.getFloat(cursor.getColumnIndex("longitude")),0,Color.DKGRAY,icon);
 		cachedMarkers.add(marker);
     	return cachedMarkers;
+
+	}
+
+	public List<Marker> getMarkerDetails(String building){
+
+		cachedMarkers=new ArrayList<Marker>();
+		dbHelper.openDataBase();
+		Cursor cursor=dbHelper.getMarkerDetails(building);
+		cursor.moveToFirst();
+
+
+//		Marker marker=new IconMarker(building,cursor.getFloat(cursor.getColumnIndex("latitude")),
+//		cursor.getFloat(cursor.getColumnIndex("longitude")),0,Color.DKGRAY,icon);
+
+		Marker marker=new IconMarker(cursor,cursor.getFloat(cursor.getColumnIndex("latitude")),
+				cursor.getFloat(cursor.getColumnIndex("longitude")),0,Color.DKGRAY,icon);
+		cachedMarkers.add(marker);
+		return cachedMarkers;
 
 	}
 	

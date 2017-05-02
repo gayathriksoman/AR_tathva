@@ -17,6 +17,7 @@ import com.tathva.tathva_live.ui.objects.PaintablePosition;
 
 import android.app.Application;
 import android.content.res.Resources;
+import android.database.Cursor;
 import android.graphics.Bitmap;
 import android.graphics.Canvas;
 import android.graphics.Color;
@@ -58,6 +59,8 @@ public class Marker implements Comparable<Marker> {
 
     // Unique identifier of Marker
     private String name = null;
+    //Display timing
+    private String timing = null;
     // Marker's physical location (Lat, Lon, Alt)
     private final PhysicalLocation physicalLocation = new PhysicalLocation();
     // Distance from camera to PhysicalLocation in meters
@@ -92,6 +95,10 @@ public class Marker implements Comparable<Marker> {
         set(name, latitude, longitude, altitude, color);
     }
 
+    public Marker(Cursor cursor, double latitude, double longitude, double altitude, int color) {
+        setDetails(cursor, latitude, longitude, altitude, color);
+    }
+
     /**
      * Set the objects parameters. This should be used instead of creating new
      * objects.
@@ -112,6 +119,23 @@ public class Marker implements Comparable<Marker> {
         if (name == null) throw new NullPointerException();
 
         this.name = name;
+        this.physicalLocation.set(latitude, longitude, altitude);
+        this.color = color;
+        this.isOnRadar = false;
+        this.isInView = false;
+        this.locationXyzRelativeToPhysicalLocation.set(0, 0, 0);
+        this.initialY = 0.0f;
+        if (altitude==0.0d) this.noAltitude = true;
+        else this.noAltitude = false;
+    }
+
+    public synchronized void setDetails(Cursor cursor, double latitude, double longitude, double altitude, int color) {
+
+
+        this.name = cursor.getString(cursor.getColumnIndex("building"));
+        if (name == null) throw new NullPointerException();
+
+        this.timing = cursor.getString(cursor.getColumnIndex("timing"));
         this.physicalLocation.set(latitude, longitude, altitude);
         this.color = color;
         this.isOnRadar = false;
@@ -700,7 +724,11 @@ public class Marker implements Comparable<Marker> {
 
         String textStr = null;
         if (distance < 1000.0) {
-            textStr = name + " (" + DECIMAL_FORMAT.format(distance) + "m)";
+            if(timing==null)
+                textStr = name + " (" + DECIMAL_FORMAT.format(distance) + "m)";
+
+            else
+                textStr = name + " (" + DECIMAL_FORMAT.format(distance) + "m)\n" + timing;
         } else {
             double d = distance / 1000.0;
             textStr = name + " (" + DECIMAL_FORMAT.format(d) + "km)";

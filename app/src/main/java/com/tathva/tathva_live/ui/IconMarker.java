@@ -2,6 +2,7 @@ package com.tathva.tathva_live.ui;
 
 import com.tathva.tathva_live.ui.objects.PaintableIcon;
 
+import android.database.Cursor;
 import android.graphics.Bitmap;
 import android.graphics.Canvas;
 
@@ -21,6 +22,13 @@ public class IconMarker extends Marker {
         this.bitmap = bitmap;
         ;
         
+    }
+
+    public IconMarker(Cursor cursor, double latitude, double longitude, double altitude, int color, Bitmap bitmap) {
+        super(cursor, latitude, longitude, altitude, color);
+        this.bitmap = bitmap;
+        ;
+
     }
 
     /**

@@ -1,82 +1,42 @@
 [
     {
-        "merged": "G:\\STUDY\\vr\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_thumb.xml",
-        "source": "G:\\STUDY\\vr\\AR_tathva\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\color-v23\\abc_tint_switch_thumb.xml"
+        "merged": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_text_material.xml",
+        "source": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\color-v23\\abc_btn_colored_text_material.xml"
     },
     {
-        "merged": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_btn_checkable.xml",
-        "source": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\color-v23\\abc_tint_btn_checkable.xml"
+        "merged": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_edittext.xml",
+        "source": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\color-v23\\abc_tint_edittext.xml"
     },
     {
-        "merged": "G:\\STUDY\\vr\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_seek_thumb.xml",
-        "source": "G:\\STUDY\\vr\\AR_tathva\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\color-v23\\abc_tint_seek_thumb.xml"
+        "merged": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_default.xml",
+        "source": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\color-v23\\abc_tint_default.xml"
     },
     {
-        "merged": "G:\\STUDY\\vr\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_default.xml",
-        "source": "G:\\STUDY\\vr\\AR_tathva\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\color-v23\\abc_tint_default.xml"
+        "merged": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_spinner.xml",
+        "source": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\color-v23\\abc_tint_spinner.xml"
     },
     {
-        "merged": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_text_material.xml",
-        "source": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\color-v23\\abc_btn_colored_text_material.xml"
+        "merged": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_seek_thumb.xml",
+        "source": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\color-v23\\abc_tint_seek_thumb.xml"
     },
     {
-        "merged": "G:\\STUDY\\vr\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_color_highlight_material.xml",
-        "source": "G:\\STUDY\\vr\\AR_tathva\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\color-v23\\abc_color_highlight_material.xml"
+        "merged": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_borderless_text_material.xml",
+        "source": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
     },
     {
-        "merged": "G:\\STUDY\\vr\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_text_material.xml",
-        "source": "G:\\STUDY\\vr\\AR_tathva\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\color-v23\\abc_btn_colored_text_material.xml"
+        "merged": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_track.xml",
+        "source": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\color-v23\\abc_tint_switch_track.xml"
     },
     {
-        "merged": "G:\\STUDY\\vr\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_borderless_text_material.xml",
-        "source": "G:\\STUDY\\vr\\AR_tathva\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
+        "merged": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_btn_checkable.xml",
+        "source": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\color-v23\\abc_tint_btn_checkable.xml"
     },
     {
-        "merged": "G:\\STUDY\\vr\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_edittext.xml",
-        "source": "G:\\STUDY\\vr\\AR_tathva\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\color-v23\\abc_tint_edittext.xml"
+        "merged": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_color_highlight_material.xml",
+        "source": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\color-v23\\abc_color_highlight_material.xml"
     },
     {
-        "merged": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_thumb.xml",
-        "source": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\color-v23\\abc_tint_switch_thumb.xml"
-    },
-    {
-        "merged": "G:\\STUDY\\vr\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_btn_checkable.xml",
-        "source": "G:\\STUDY\\vr\\AR_tathva\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\color-v23\\abc_tint_btn_checkable.xml"
-    },
-    {
-        "merged": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_spinner.xml",
-        "source": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\color-v23\\abc_tint_spinner.xml"
-    },
-    {
-        "merged": "G:\\STUDY\\vr\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_spinner.xml",
-        "source": "G:\\STUDY\\vr\\AR_tathva\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\color-v23\\abc_tint_spinner.xml"
-    },
-    {
-        "merged": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_default.xml",
-        "source": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\color-v23\\abc_tint_default.xml"
-    },
-    {
-        "merged": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_borderless_text_material.xml",
-        "source": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
-    },
-    {
-        "merged": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_edittext.xml",
-        "source": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\color-v23\\abc_tint_edittext.xml"
-    },
-    {
-        "merged": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_color_highlight_material.xml",
-        "source": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\color-v23\\abc_color_highlight_material.xml"
-    },
-    {
-        "merged": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_seek_thumb.xml",
-        "source": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\color-v23\\abc_tint_seek_thumb.xml"
-    },
-    {
-        "merged": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_track.xml",
-        "source": "G:\\home\\gayathri\\AndroidStudioProjects\\TathvaLive-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\color-v23\\abc_tint_switch_track.xml"
-    },
-    {
-        "merged": "G:\\STUDY\\vr\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_track.xml",
-        "source": "G:\\STUDY\\vr\\AR_tathva\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\color-v23\\abc_tint_switch_track.xml"
+        "merged": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_thumb.xml",
+        "source": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\color-v23\\abc_tint_switch_thumb.xml"
     }
 ]

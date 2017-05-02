@@ -221,7 +221,7 @@ public class Demo extends AugmentedReality {
 
             LocalDataSource localData = new LocalDataSource(getAppContext().getResources(),
                     getAppContext(), building.toLowerCase());
-            ARData.addMarkers(localData.getMarkerDB(building));
+            ARData.addMarkers(localData.getMarkerDetails(building));
             //reachedMessage.setText("You have Reached " + building + " ");
             buildingName.setText(building);
             dialogShown = false;

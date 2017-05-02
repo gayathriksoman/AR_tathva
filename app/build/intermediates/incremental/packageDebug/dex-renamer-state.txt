@@ -1,4 +1,4 @@
-#Mon May 01 04:40:54 IST 2017
-base.0=G\:\\STUDY\\vr\\AR_tathva\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+#Tue May 02 01:09:17 IST 2017
+base.0=C\:\\Development\\AR_tathva\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
 renamed.0=classes.dex
-file.0=G\:\\STUDY\\vr\\AR_tathva\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+file.0=C\:\\Development\\AR_tathva\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

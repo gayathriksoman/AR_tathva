@@ -288,7 +288,17 @@ public class DataBaseHelper extends SQLiteOpenHelper {
 						"SELECT DISTINCT rowid _id,building FROM location ORDER BY building COLLATE NOCASE",
 						null);
 	}
-	
+
+//	public Cursor getBuildingDetails(String Building)
+//	{
+//		String[] n = { "rowid _id", "building" };
+//
+//
+//		return myDataBase
+//				.rawQuery(
+//						"SELECT DISTINCT rowid _id,building FROM location ORDER BY building COLLATE NOCASE",
+//						null);
+//	}
 	
 	
 	public Cursor getNewsFeed()
@@ -305,6 +315,17 @@ public class DataBaseHelper extends SQLiteOpenHelper {
 
 		Cursor cursor = myDataBase.query("location", n, "building=?", a, null,
 				null, null);
+		return cursor;
+
+	}
+
+	public Cursor getMarkerDetails(String building) {
+		String[] n = { "building", "timing", "latitude", "longitude" };
+		String[] a = { building };
+
+		Cursor cursor = myDataBase.rawQuery("SELECT * FROM location, building WHERE location.building=? AND location.building=building.name", a);
+//		Cursor cursor = myDataBase.query("location", n, "building=?", a, null,
+//				null, null);
 		return cursor;
 
 	}
