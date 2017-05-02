@@ -33,7 +33,7 @@ public class Home extends AppCompatActivity {
 
     public void howto(View view)
     {
-        Intent i=new Intent(this,HowTo.class);
+        Intent i=new Intent(this,IntroSliderActivity.class);
         startActivity(i);
     }
 }

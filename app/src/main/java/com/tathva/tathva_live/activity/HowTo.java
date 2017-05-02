@@ -19,7 +19,7 @@ public class HowTo extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_how_to);
-        instruction = (TextView) findViewById(R.id.instruction);
+        //instruction = (TextView) findViewById(R.id.instruction);
         back = (Button) findViewById(R.id.home);
 
     }

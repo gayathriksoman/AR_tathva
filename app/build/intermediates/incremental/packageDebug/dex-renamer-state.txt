@@ -1,4 +1,7 @@
-#Sun Apr 30 22:10:35 IST 2017
-base.0=/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+#Tue May 02 02:08:47 IST 2017
+base.0=C\:\\Users\\admin\\AR_tathva\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_15677d724b616f088a1ca0e65d1f8edd0106efd7
+renamed.1=classes2.dex
 renamed.0=classes.dex
-file.0=/home/gayathri/AndroidStudioProjects/TathvaLive-master/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
+file.1=C\:\\Users\\admin\\AR_tathva\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_4d2ed1819a048db61651f8753fd4ed424b29683a\\classes.dex
+base.1=C\:\\Users\\admin\\AR_tathva\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_4d2ed1819a048db61651f8753fd4ed424b29683a
+file.0=C\:\\Users\\admin\\AR_tathva\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_15677d724b616f088a1ca0e65d1f8edd0106efd7\\classes.dex

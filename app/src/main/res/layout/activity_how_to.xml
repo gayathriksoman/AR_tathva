@@ -15,21 +15,8 @@
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
         android:background="@drawable/round_button"
-        android:onClick="onBackClick"
+        android:onClick="onBackClick (HowTo)"
         android:text="Home" />
-
-    <ImageView
-        android:id="@+id/imageView4"
-        android:layout_width="fill_parent"
-        android:layout_height="150dp"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true"
-        android:layout_alignParentTop="true"
-        android:layout_marginTop="60dp"
-        android:adjustViewBounds="true"
-        android:cropToPadding="false"
-        android:scaleType="fitXY"
-        app:srcCompat="@mipmap/nitc1" />
 
     <android.support.v7.widget.Toolbar
         android:id="@+id/my_toolbar"
@@ -49,18 +36,15 @@
 
     </android.support.v7.widget.Toolbar>
 
-    <TextView
-        android:id="@+id/instruction"
+    <ImageView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_above="@+id/home"
-        android:layout_alignParentEnd="true"
-        android:layout_alignParentRight="true"
-        android:layout_marginBottom="65dp"
-        android:text="@string/instructions"
-        android:textColor="#ffffff"
-        android:textSize="20dp"
-        android:visibility="visible" />
+        app:srcCompat="@drawable/howto1"
+        android:id="@+id/imageView4"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="26dp" />
 
 </RelativeLayout>
 

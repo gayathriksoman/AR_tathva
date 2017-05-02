@@ -21,4 +21,9 @@
     <item name="android:topBright">@android:color/white</item>
     <item name="android:topDark">@android:color/white</item>
 </style>
+ <style name="CustomCirclePageIndicator">
+  <item name="android:fillColor">@color/indicatorSelected</item>
+  <item name="android:radius">5dp</item>
+  <item name="android:gravity">center</item>
+ </style>
 </resources> 
