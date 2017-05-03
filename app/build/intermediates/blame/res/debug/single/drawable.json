@@ -964,12 +964,12 @@
         "source": "C:\\Development\\AR_tathva\\app\\src\\main\\res\\drawable\\button_nite_normal.png"
     },
     {
-        "merged": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\w_009.png",
-        "source": "C:\\Development\\AR_tathva\\app\\src\\main\\res\\drawable\\w_009.png"
-    },
-    {
         "merged": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
         "source": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\w_009.png",
+        "source": "C:\\Development\\AR_tathva\\app\\src\\main\\res\\drawable\\w_009.png"
     },
     {
         "merged": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\frame_015.png",

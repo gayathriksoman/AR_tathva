@@ -121,7 +121,7 @@ public class LocalDataSource extends DataSource {
 
 	public List<Marker> getMarkerDB(String building){
      
-		cachedMarkers=new ArrayList<Marker>();
+		//cachedMarkers=new ArrayList<Marker>();
 		dbHelper.openDataBase();
 		Cursor cursor=dbHelper.getMarkerDB(building);
 		cursor.moveToFirst();
@@ -139,7 +139,7 @@ public class LocalDataSource extends DataSource {
 
 	public List<Marker> getMarkerDetails(String building){
 
-		cachedMarkers=new ArrayList<Marker>();
+		//cachedMarkers=new ArrayList<Marker>();
 		dbHelper.openDataBase();
 		Cursor cursor=dbHelper.getMarkerDetails(building);
 		cursor.moveToFirst();

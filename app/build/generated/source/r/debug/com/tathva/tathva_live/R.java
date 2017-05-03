@@ -2805,6 +2805,7 @@ containing a value of this type.
     public static final class id {
         public static final int FrameLayout1=0x7f0b0078;
         public static final int LinearLayout1=0x7f0b0074;
+        public static final int RelativeLayout1=0x7f0b00a9;
         public static final int action0=0x7f0b0092;
         public static final int action_bar=0x7f0b005a;
         public static final int action_bar_activity_content=0x7f0b0000;
@@ -2857,13 +2858,14 @@ containing a value of this type.
         public static final int dateandtime=0x7f0b00a8;
         public static final int decor_content_parent=0x7f0b0058;
         public static final int default_activity_button=0x7f0b003d;
-        public static final int develepors=0x7f0b00aa;
+        public static final int dept=0x7f0b00ac;
+        public static final int develepors=0x7f0b00ae;
         public static final int disableHome=0x7f0b0015;
         public static final int edit_query=0x7f0b005c;
         public static final int end=0x7f0b0023;
         public static final int end_padder=0x7f0b00a5;
         public static final int exhibitions=0x7f0b0089;
-        public static final int exit=0x7f0b00ab;
+        public static final int exit=0x7f0b00af;
         public static final int expand_activities_button=0x7f0b003b;
         public static final int expanded_menu=0x7f0b0050;
         public static final int explore=0x7f0b006e;
@@ -2886,6 +2888,7 @@ containing a value of this type.
         public static final int images=0x7f0b0086;
         public static final int info=0x7f0b009c;
         public static final int instruction=0x7f0b0071;
+        public static final int labs=0x7f0b00ab;
         public static final int lectures=0x7f0b008a;
         public static final int light=0x7f0b0034;
         public static final int line1=0x7f0b00a1;
@@ -2893,7 +2896,7 @@ containing a value of this type.
         public static final int listMode=0x7f0b0012;
         public static final int list_item=0x7f0b003e;
         public static final int listview=0x7f0b0084;
-        public static final int loading=0x7f0b00a9;
+        public static final int loading=0x7f0b00ad;
         public static final int locationname=0x7f0b00a6;
         public static final int map=0x7f0b006c;
         public static final int media_actions=0x7f0b0095;
@@ -2963,6 +2966,7 @@ containing a value of this type.
         public static final int textView1=0x7f0b008c;
         public static final int textView2=0x7f0b008d;
         public static final int time=0x7f0b009a;
+        public static final int timing=0x7f0b00aa;
         public static final int title=0x7f0b0040;
         public static final int titleDividerNoCustom=0x7f0b004f;
         public static final int title_template=0x7f0b004d;
@@ -3038,14 +3042,15 @@ containing a value of this type.
         public static final int notification_template_part_time=0x7f040033;
         public static final int one_location=0x7f040034;
         public static final int one_news=0x7f040035;
-        public static final int select_dialog_item_material=0x7f040036;
-        public static final int select_dialog_multichoice_material=0x7f040037;
-        public static final int select_dialog_singlechoice_material=0x7f040038;
-        public static final int simple_list_item1=0x7f040039;
-        public static final int splashloadingscreen=0x7f04003a;
-        public static final int spotsatnitc=0x7f04003b;
-        public static final int support_simple_spinner_dropdown_item=0x7f04003c;
-        public static final int text1=0x7f04003d;
+        public static final int reached=0x7f040036;
+        public static final int select_dialog_item_material=0x7f040037;
+        public static final int select_dialog_multichoice_material=0x7f040038;
+        public static final int select_dialog_singlechoice_material=0x7f040039;
+        public static final int simple_list_item1=0x7f04003a;
+        public static final int splashloadingscreen=0x7f04003b;
+        public static final int spotsatnitc=0x7f04003c;
+        public static final int support_simple_spinner_dropdown_item=0x7f04003d;
+        public static final int text1=0x7f04003e;
     }
     public static final class menu {
         public static final int mainmenu=0x7f0d0000;

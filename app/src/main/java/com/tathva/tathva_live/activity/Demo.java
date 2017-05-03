@@ -20,6 +20,7 @@ import android.content.DialogInterface.OnCancelListener;
 import android.content.DialogInterface.OnShowListener;
 import android.content.Intent;
 import android.content.res.Resources;
+import android.database.Cursor;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
 import android.graphics.Color;
@@ -27,6 +28,7 @@ import android.graphics.drawable.AnimationDrawable;
 import android.graphics.drawable.ColorDrawable;
 import android.location.Location;
 import android.os.Bundle;
+import android.support.v4.content.ContextCompat;
 import android.util.Log;
 import android.view.Gravity;
 import android.view.Menu;
@@ -69,6 +71,10 @@ public class Demo extends AugmentedReality {
     private static AlertDialog.Builder alertDialogBuilder;
 
     private static String building;
+    private static String name;
+    private static String timing;
+    private static String dept;
+    private static String labs;
     private static String room;
     private static ProgressDialog pdialog;
     private static AnimationDrawable progressAnimation;
@@ -78,11 +84,15 @@ public class Demo extends AugmentedReality {
     private static View youHaveReached;
     static LayoutParams augLayout;
     static TextView buildingName;
+    static TextView time;
+    static TextView dep;
+    static TextView lab;
     static TextView reachedMessage;
     static TextView notAtMessage;
     static boolean dialogShown = false;
     static ImageView buildingImage;
-   // public static TextView reached;
+    static DataBaseHelper dbHelper;
+    // public static TextView reached;
 
     private static AnimationDrawable gpsAnimation;
     public static Context context;
@@ -118,6 +128,19 @@ public class Demo extends AugmentedReality {
 
         Intent intent = getIntent();
         building = intent.getStringExtra("BUILDING");
+
+        dbHelper =new DataBaseHelper(this.context);
+
+        dbHelper.openDataBase();
+            Cursor cursor=dbHelper.getMarkerDetails(building);
+            cursor.moveToFirst();
+
+        dept=cursor.getString(cursor.getColumnIndex("dept"));
+        labs=cursor.getString(cursor.getColumnIndex("labs"));
+        name=cursor.getString(cursor.getColumnIndex("building"));
+        timing=cursor.getString(cursor.getColumnIndex("timing"));
+
+
         //building = "ARCHI BLOCK";
         System.out.println("INTENT DONE ");
         Bitmap up = BitmapFactory.decodeResource(getResources(), R.drawable.up);
@@ -134,14 +157,17 @@ public class Demo extends AugmentedReality {
         int buildingNo = localData.getBuildingNo(building);
 
 
-
         connectingDialog = getLayoutInflater()
                 .inflate(R.layout.alertview, null);
         youAreNotAtNitc = getLayoutInflater().inflate(R.layout.notatnit2, null);
         youHaveReached = getLayoutInflater()
-                .inflate(R.layout.gpsreached2, null);
+                .inflate(R.layout.reached, null);
         augLayout = new LayoutParams(LayoutParams.MATCH_PARENT,
                 LayoutParams.MATCH_PARENT);
+
+  //      ImageView reach = (ImageView) findViewById(R.id.imageView2);
+     //   if (reach != null)
+      //      reach.setImageDrawable(ContextCompat.getDrawable(this, R.drawable.nlhc));
 
 
         addContentView(connectingDialog, augLayout);
@@ -155,8 +181,11 @@ public class Demo extends AugmentedReality {
 
         reachedMessage = (TextView) findViewById(R.id.reachedmessage);
         buildingName = (TextView) findViewById(R.id.name);
+        time = (TextView) findViewById(R.id.timing);
+        dep = (TextView) findViewById(R.id.dept);
+        lab = (TextView) findViewById(R.id.labs);
         //notAtMessage=(TextView) findViewById(R.id.notatmessage);
-        buildingImage = (ImageView) findViewById(R.id.reachedimage);
+        //buildingImage = (ImageView) findViewById(R.id.reachedimage);
         String generatedString = "building_";
         generatedString = generatedString + Integer.toString(buildingNo);
 
@@ -164,14 +193,14 @@ public class Demo extends AugmentedReality {
         Resources res = getResources();
         int resourceId = res.getIdentifier(
                 generatedString, "drawable", getPackageName());
-        buildingImage.setImageResource(resourceId);
+        //buildingImage.setImageResource(resourceId);
 
 
         gpsAnimation = (AnimationDrawable) gpsImage.getBackground();
 
         pdialog = new ProgressDialog(this);
 
-       // reached = (TextView) findViewById(R.id.reachedlocation);
+        // reached = (TextView) findViewById(R.id.reachedlocation);
 
         pdialog.setCancelable(true);
         pdialog.setTitle("GPS Accuracy Low");
@@ -212,18 +241,23 @@ public class Demo extends AugmentedReality {
                 youAreNotAtNitc.setVisibility(View.INVISIBLE);
                 youHaveReached.setVisibility(View.INVISIBLE);
             }
-
         } else if (accuracy == -20) {
+
             connectingDialog.setVisibility(View.INVISIBLE);
             youAreNotAtNitc.setVisibility(View.INVISIBLE);
-            //youHaveReached.setVisibility(View.VISIBLE);
-         //   reached.setVisibility(View.VISIBLE);
+            youHaveReached.setVisibility(View.VISIBLE);
+            //   reached.setVisibility(View.VISIBLE);
 
-            LocalDataSource localData = new LocalDataSource(getAppContext().getResources(),
-                    getAppContext(), building.toLowerCase());
-            ARData.addMarkers(localData.getMarkerDetails(building));
+//            LocalDataSource localData = new LocalDataSource(getAppContext().getResources(),
+//                    getAppContext(), "agam");
+//            ARData.addMarkers(localData.getMarkerDetails(building));
             //reachedMessage.setText("You have Reached " + building + " ");
-            buildingName.setText(building);
+//
+
+            buildingName.setText(name);
+            time.setText("Open " + timing);
+            dep.setText("Departments :" + " " +dept);
+            lab.setText("Laboratories :" + " " + labs);
             dialogShown = false;
             pdialog.hide();
 

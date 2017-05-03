@@ -115,7 +115,7 @@ public class DataBaseHelper extends SQLiteOpenHelper {
 		try {
 			String myPath = DB_PATH + DB_NAME;
 			checkDB = SQLiteDatabase.openDatabase(myPath, null,
-					SQLiteDatabase.OPEN_READONLY);
+					SQLiteDatabase.OPEN_READWRITE);
 
 		} catch (SQLiteException e) {
 
@@ -310,7 +310,7 @@ public class DataBaseHelper extends SQLiteOpenHelper {
 	
 	
 	public Cursor getMarkerDB(String building) {
-		String[] n = { "latitude", "longitude" };
+		String[] n = {"building", "latitude", "longitude" };
 		String[] a = { building };
 
 		Cursor cursor = myDataBase.query("location", n, "building=?", a, null,
@@ -320,7 +320,7 @@ public class DataBaseHelper extends SQLiteOpenHelper {
 	}
 
 	public Cursor getMarkerDetails(String building) {
-		String[] n = { "building", "timing", "latitude", "longitude" };
+		//String[] n = { "building", "timing", "labs", "dept" };
 		String[] a = { building };
 
 		Cursor cursor = myDataBase.rawQuery("SELECT * FROM location, building WHERE location.building=? AND location.building=building.name", a);

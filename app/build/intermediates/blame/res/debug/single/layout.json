@@ -1,11 +1,11 @@
 [
     {
-        "merged": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
-        "source": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\notification_template_lines_media.xml"
-    },
-    {
         "merged": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notatnit2.xml",
         "source": "C:\\Development\\AR_tathva\\app\\src\\main\\res\\layout\\notatnit2.xml"
+    },
+    {
+        "merged": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\notification_template_lines_media.xml"
     },
     {
         "merged": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
@@ -20,12 +20,12 @@
         "source": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\abc_action_bar_up_container.xml"
     },
     {
-        "merged": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
-        "source": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\notification_template_part_chronometer.xml"
-    },
-    {
         "merged": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
         "source": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\notification_template_part_chronometer.xml"
     },
     {
         "merged": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
@@ -44,12 +44,12 @@
         "source": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
     },
     {
-        "merged": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
-        "source": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\abc_activity_chooser_view.xml"
-    },
-    {
         "merged": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_maps.xml",
         "source": "C:\\Development\\AR_tathva\\app\\src\\main\\res\\layout\\activity_maps.xml"
+    },
+    {
+        "merged": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\abc_activity_chooser_view.xml"
     },
     {
         "merged": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\layout\\splashloadingscreen.xml",
@@ -174,6 +174,10 @@
     {
         "merged": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\layout\\one_news.xml",
         "source": "C:\\Development\\AR_tathva\\app\\src\\main\\res\\layout\\one_news.xml"
+    },
+    {
+        "merged": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\layout\\reached.xml",
+        "source": "C:\\Development\\AR_tathva\\app\\src\\main\\res\\layout\\reached.xml"
     },
     {
         "merged": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
