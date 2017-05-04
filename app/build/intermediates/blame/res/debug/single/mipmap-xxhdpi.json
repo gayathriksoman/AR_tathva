@@ -8,7 +8,19 @@
         "source": "C:\\Users\\admin\\AR_tathva\\app\\src\\main\\res\\mipmap-xxhdpi\\nitc1.png"
     },
     {
+        "merged": "D:\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\nitc1.png",
+        "source": "D:\\AR_tathva\\app\\src\\main\\res\\mipmap-xxhdpi\\nitc1.png"
+    },
+    {
         "merged": "C:\\Users\\admin\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\nitc.png",
         "source": "C:\\Users\\admin\\AR_tathva\\app\\src\\main\\res\\mipmap-xxhdpi\\nitc.png"
+    },
+    {
+        "merged": "D:\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\nitc.png",
+        "source": "D:\\AR_tathva\\app\\src\\main\\res\\mipmap-xxhdpi\\nitc.png"
+    },
+    {
+        "merged": "D:\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\revelio_icon.png",
+        "source": "D:\\AR_tathva\\app\\src\\main\\res\\mipmap-xxhdpi\\revelio_icon.png"
     }
 ]

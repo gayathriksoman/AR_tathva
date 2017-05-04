@@ -4,7 +4,15 @@
         "source": "C:\\Users\\admin\\AR_tathva\\app\\src\\main\\res\\mipmap-mdpi\\revelio_icon.png"
     },
     {
+        "merged": "D:\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\revelio_icon.png",
+        "source": "D:\\AR_tathva\\app\\src\\main\\res\\mipmap-mdpi\\revelio_icon.png"
+    },
+    {
         "merged": "C:\\Users\\admin\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\nitc.png",
         "source": "C:\\Users\\admin\\AR_tathva\\app\\src\\main\\res\\mipmap-mdpi\\nitc.png"
+    },
+    {
+        "merged": "D:\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\nitc.png",
+        "source": "D:\\AR_tathva\\app\\src\\main\\res\\mipmap-mdpi\\nitc.png"
     }
 ]
