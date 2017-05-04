@@ -24,12 +24,16 @@
         "source": "C:\\Development\\AR_tathva\\app\\src\\main\\res\\drawable\\button_call_normal.png"
     },
     {
+        "merged": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\e_004.png",
+        "source": "C:\\Development\\AR_tathva\\app\\src\\main\\res\\drawable\\e_004.png"
+    },
+    {
         "merged": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
         "source": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_item_background_holo_dark.xml"
     },
     {
-        "merged": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\e_004.png",
-        "source": "C:\\Development\\AR_tathva\\app\\src\\main\\res\\drawable\\e_004.png"
+        "merged": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\howto1.jpg",
+        "source": "C:\\Development\\AR_tathva\\app\\src\\main\\res\\drawable\\howto1.jpg"
     },
     {
         "merged": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
@@ -38,6 +42,10 @@
     {
         "merged": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_update.xml",
         "source": "C:\\Development\\AR_tathva\\app\\src\\main\\res\\drawable\\button_update.xml"
+    },
+    {
+        "merged": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\slide3.jpg",
+        "source": "C:\\Development\\AR_tathva\\app\\src\\main\\res\\drawable\\slide3.jpg"
     },
     {
         "merged": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\w_019.png",
@@ -68,12 +76,12 @@
         "source": "C:\\Development\\AR_tathva\\app\\src\\main\\res\\drawable\\c_011.png"
     },
     {
-        "merged": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
-        "source": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_edit_text_material.xml"
-    },
-    {
         "merged": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\w_020.png",
         "source": "C:\\Development\\AR_tathva\\app\\src\\main\\res\\drawable\\w_020.png"
+    },
+    {
+        "merged": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_edit_text_material.xml"
     },
     {
         "merged": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_find.xml",
@@ -126,6 +134,10 @@
     {
         "merged": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\c_008.png",
         "source": "C:\\Development\\AR_tathva\\app\\src\\main\\res\\drawable\\c_008.png"
+    },
+    {
+        "merged": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\slide1.jpg",
+        "source": "C:\\Development\\AR_tathva\\app\\src\\main\\res\\drawable\\slide1.jpg"
     },
     {
         "merged": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tcs.jpg",
@@ -188,6 +200,10 @@
         "source": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_ratingbar_small_material.xml"
     },
     {
+        "merged": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\howto3.jpg",
+        "source": "C:\\Development\\AR_tathva\\app\\src\\main\\res\\drawable\\howto3.jpg"
+    },
+    {
         "merged": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\agam.png",
         "source": "C:\\Development\\AR_tathva\\app\\src\\main\\res\\drawable\\agam.png"
     },
@@ -234,6 +250,10 @@
     {
         "merged": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gps_reached.png",
         "source": "C:\\Development\\AR_tathva\\app\\src\\main\\res\\drawable\\gps_reached.png"
+    },
+    {
+        "merged": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\slide5.jpg",
+        "source": "C:\\Development\\AR_tathva\\app\\src\\main\\res\\drawable\\slide5.jpg"
     },
     {
         "merged": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\e_008.png",
@@ -428,12 +448,12 @@
         "source": "C:\\Development\\AR_tathva\\app\\src\\main\\res\\drawable\\w_014.png"
     },
     {
-        "merged": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_newsfeed_pressed.png",
-        "source": "C:\\Development\\AR_tathva\\app\\src\\main\\res\\drawable\\main_newsfeed_pressed.png"
-    },
-    {
         "merged": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\back.png",
         "source": "C:\\Development\\AR_tathva\\app\\src\\main\\res\\drawable\\back.png"
+    },
+    {
+        "merged": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_newsfeed_pressed.png",
+        "source": "C:\\Development\\AR_tathva\\app\\src\\main\\res\\drawable\\main_newsfeed_pressed.png"
     },
     {
         "merged": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\n_016.png",
@@ -452,12 +472,12 @@
         "source": "C:\\Development\\AR_tathva\\app\\src\\main\\res\\drawable\\l_013.png"
     },
     {
-        "merged": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\l_019.png",
-        "source": "C:\\Development\\AR_tathva\\app\\src\\main\\res\\drawable\\l_019.png"
-    },
-    {
         "merged": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\w_015.png",
         "source": "C:\\Development\\AR_tathva\\app\\src\\main\\res\\drawable\\w_015.png"
+    },
+    {
+        "merged": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\l_019.png",
+        "source": "C:\\Development\\AR_tathva\\app\\src\\main\\res\\drawable\\l_019.png"
     },
     {
         "merged": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\n_001.png",
@@ -508,12 +528,12 @@
         "source": "C:\\Development\\AR_tathva\\app\\src\\main\\res\\drawable\\dilaog_background.xml"
     },
     {
-        "merged": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
-        "source": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
-    },
-    {
         "merged": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\c_006.png",
         "source": "C:\\Development\\AR_tathva\\app\\src\\main\\res\\drawable\\c_006.png"
+    },
+    {
+        "merged": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
     },
     {
         "merged": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\frame_021.png",
@@ -588,6 +608,10 @@
         "source": "C:\\Development\\AR_tathva\\app\\src\\main\\res\\drawable\\e_020.png"
     },
     {
+        "merged": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\slide4.jpg",
+        "source": "C:\\Development\\AR_tathva\\app\\src\\main\\res\\drawable\\slide4.jpg"
+    },
+    {
         "merged": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\frame_025.png",
         "source": "C:\\Development\\AR_tathva\\app\\src\\main\\res\\drawable\\frame_025.png"
     },
@@ -620,12 +644,12 @@
         "source": "C:\\Development\\AR_tathva\\app\\src\\main\\res\\drawable\\e_017.png"
     },
     {
-        "merged": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\frame_008.png",
-        "source": "C:\\Development\\AR_tathva\\app\\src\\main\\res\\drawable\\frame_008.png"
-    },
-    {
         "merged": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\l_001.png",
         "source": "C:\\Development\\AR_tathva\\app\\src\\main\\res\\drawable\\l_001.png"
+    },
+    {
+        "merged": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\frame_008.png",
+        "source": "C:\\Development\\AR_tathva\\app\\src\\main\\res\\drawable\\frame_008.png"
     },
     {
         "merged": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hackattack.jpg",
@@ -684,12 +708,12 @@
         "source": "C:\\Development\\AR_tathva\\app\\src\\main\\res\\drawable\\loading.gif"
     },
     {
-        "merged": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
-        "source": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_ic_search_api_material.xml"
-    },
-    {
         "merged": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\n_013.png",
         "source": "C:\\Development\\AR_tathva\\app\\src\\main\\res\\drawable\\n_013.png"
+    },
+    {
+        "merged": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_ic_search_api_material.xml"
     },
     {
         "merged": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\w_006.png",
@@ -740,12 +764,12 @@
         "source": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_btn_borderless_material.xml"
     },
     {
-        "merged": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\border2.xml",
-        "source": "C:\\Development\\AR_tathva\\app\\src\\main\\res\\drawable\\border2.xml"
-    },
-    {
         "merged": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wheels.jpg",
         "source": "C:\\Development\\AR_tathva\\app\\src\\main\\res\\drawable\\wheels.jpg"
+    },
+    {
+        "merged": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\border2.xml",
+        "source": "C:\\Development\\AR_tathva\\app\\src\\main\\res\\drawable\\border2.xml"
     },
     {
         "merged": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_register_normal.png",
@@ -770,6 +794,10 @@
     {
         "merged": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
         "source": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\vpi__tab_indicator.xml",
+        "source": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\exploded-aar\\AR_tathva\\library\\unspecified\\res\\drawable\\vpi__tab_indicator.xml"
     },
     {
         "merged": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
@@ -812,6 +840,10 @@
         "source": "C:\\Development\\AR_tathva\\app\\src\\main\\res\\drawable\\w_016.png"
     },
     {
+        "merged": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\slide2.jpg",
+        "source": "C:\\Development\\AR_tathva\\app\\src\\main\\res\\drawable\\slide2.jpg"
+    },
+    {
         "merged": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_nite_selected.png",
         "source": "C:\\Development\\AR_tathva\\app\\src\\main\\res\\drawable\\button_nite_selected.png"
     },
@@ -832,12 +864,12 @@
         "source": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_ic_voice_search_api_material.xml"
     },
     {
-        "merged": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dirtrace.png",
-        "source": "C:\\Development\\AR_tathva\\app\\src\\main\\res\\drawable\\dirtrace.png"
-    },
-    {
         "merged": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_myevents.xml",
         "source": "C:\\Development\\AR_tathva\\app\\src\\main\\res\\drawable\\button_myevents.xml"
+    },
+    {
+        "merged": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dirtrace.png",
+        "source": "C:\\Development\\AR_tathva\\app\\src\\main\\res\\drawable\\dirtrace.png"
     },
     {
         "merged": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
@@ -892,12 +924,12 @@
         "source": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
     },
     {
-        "merged": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_exhibition_selected.png",
-        "source": "C:\\Development\\AR_tathva\\app\\src\\main\\res\\drawable\\button_exhibition_selected.png"
-    },
-    {
         "merged": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\c_002.png",
         "source": "C:\\Development\\AR_tathva\\app\\src\\main\\res\\drawable\\c_002.png"
+    },
+    {
+        "merged": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_exhibition_selected.png",
+        "source": "C:\\Development\\AR_tathva\\app\\src\\main\\res\\drawable\\button_exhibition_selected.png"
     },
     {
         "merged": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\l_007.png",
@@ -964,12 +996,12 @@
         "source": "C:\\Development\\AR_tathva\\app\\src\\main\\res\\drawable\\button_nite_normal.png"
     },
     {
-        "merged": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
-        "source": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_switch_thumb_material.xml"
-    },
-    {
         "merged": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\w_009.png",
         "source": "C:\\Development\\AR_tathva\\app\\src\\main\\res\\drawable\\w_009.png"
+    },
+    {
+        "merged": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_switch_thumb_material.xml"
     },
     {
         "merged": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\frame_015.png",
@@ -1060,12 +1092,12 @@
         "source": "C:\\Development\\AR_tathva\\app\\src\\main\\res\\drawable\\frame_005.png"
     },
     {
-        "merged": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
-        "source": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_text_cursor_material.xml"
-    },
-    {
         "merged": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rahulnambiar.jpg",
         "source": "C:\\Development\\AR_tathva\\app\\src\\main\\res\\drawable\\rahulnambiar.jpg"
+    },
+    {
+        "merged": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_text_cursor_material.xml"
     },
     {
         "merged": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_lecture_selected.png",
@@ -1076,12 +1108,12 @@
         "source": "C:\\Development\\AR_tathva\\app\\src\\main\\res\\drawable\\n_014.png"
     },
     {
-        "merged": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
-        "source": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\notification_bg.xml"
-    },
-    {
         "merged": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_workshop_pressed.png",
         "source": "C:\\Development\\AR_tathva\\app\\src\\main\\res\\drawable\\button_workshop_pressed.png"
+    },
+    {
+        "merged": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\notification_bg.xml"
     },
     {
         "merged": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\l_020.png",
@@ -1134,5 +1166,9 @@
     {
         "merged": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\listselector.xml",
         "source": "C:\\Development\\AR_tathva\\app\\src\\main\\res\\drawable\\listselector.xml"
+    },
+    {
+        "merged": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\howto2.jpg",
+        "source": "C:\\Development\\AR_tathva\\app\\src\\main\\res\\drawable\\howto2.jpg"
     }
 ]

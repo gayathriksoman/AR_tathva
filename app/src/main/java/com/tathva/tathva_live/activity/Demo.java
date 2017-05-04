@@ -41,12 +41,13 @@ import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.tathva.tathva_live.R;
+
 import com.tathva.tathva_live.data.ARData;
 import com.tathva.tathva_live.data.LocalDataSource;
 import com.tathva.tathva_live.data.NetworkDataSource;
 import com.tathva.tathva_live.ui.Marker;
 import com.tathva.tathva_live.widget.VerticalTextView;
+import com.tathva.tathva_live.R;
 
 /**
  * This class extends the AugmentedReality and is designed to be an example on

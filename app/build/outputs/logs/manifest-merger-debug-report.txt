@@ -18,19 +18,20 @@ ADDED from C:\Development\AR_tathva\app\src\main\AndroidManifest.xml:2:1-76:12
 uses-sdk
 ADDED from C:\Development\AR_tathva\app\src\main\AndroidManifest.xml:7:5-9:41
 MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Development\AR_tathva\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.2.0\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:support-v4:25.2.0] C:\Development\AR_tathva\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-compat:25.2.0] C:\Development\AR_tathva\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-media-compat:25.2.0] C:\Development\AR_tathva\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-utils:25.2.0] C:\Development\AR_tathva\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-core-ui:25.2.0] C:\Development\AR_tathva\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-fragment:25.2.0] C:\Development\AR_tathva\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Development\AR_tathva\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.2.0\AndroidManifest.xml:21:5-43
 MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Development\AR_tathva\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Development\AR_tathva\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.2.0\AndroidManifest.xml:21:5-43
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Development\AR_tathva\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.2\AndroidManifest.xml:5:5-7:41
 MERGED from [com.google.android.gms:play-services-maps:10.2.0] C:\Development\AR_tathva\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.2.0\AndroidManifest.xml:23:5-43
 MERGED from [com.google.android.gms:play-services-base:10.2.0] C:\Development\AR_tathva\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.2.0\AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-basement:10.2.0] C:\Development\AR_tathva\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.2.0\AndroidManifest.xml:17:5-43
 MERGED from [com.google.android.gms:play-services-tasks:10.2.0] C:\Development\AR_tathva\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.2.0\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.0] C:\Development\AR_tathva\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.2.0\AndroidManifest.xml:17:5-43
+MERGED from [AR_tathva:library:unspecified] C:\Development\AR_tathva\app\build\intermediates\exploded-aar\AR_tathva\library\unspecified\AndroidManifest.xml:7:5-9:40
+MERGED from [com.android.support:support-v4:25.2.0] C:\Development\AR_tathva\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Development\AR_tathva\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Development\AR_tathva\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Development\AR_tathva\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Development\AR_tathva\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.2.0] C:\Development\AR_tathva\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
 	tools:overrideLibrary
 		ADDED from [com.android.support:appcompat-v7:25.2.0] C:\Development\AR_tathva\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.2.0\AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
@@ -94,19 +95,19 @@ ADDED from C:\Development\AR_tathva\app\src\main\AndroidManifest.xml:25:5-80
 application
 ADDED from C:\Development\AR_tathva\app\src\main\AndroidManifest.xml:27:5-74:19
 MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Development\AR_tathva\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.2.0\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-v4:25.2.0] C:\Development\AR_tathva\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-compat:25.2.0] C:\Development\AR_tathva\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-media-compat:25.2.0] C:\Development\AR_tathva\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-utils:25.2.0] C:\Development\AR_tathva\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-ui:25.2.0] C:\Development\AR_tathva\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-fragment:25.2.0] C:\Development\AR_tathva\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Development\AR_tathva\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.2.0\AndroidManifest.xml:23:5-20
 MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Development\AR_tathva\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.2.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Development\AR_tathva\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.2.0\AndroidManifest.xml:23:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Development\AR_tathva\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.2\AndroidManifest.xml:9:5-20
 MERGED from [com.google.android.gms:play-services-maps:10.2.0] C:\Development\AR_tathva\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.2.0\AndroidManifest.xml:24:5-19
 MERGED from [com.google.android.gms:play-services-base:10.2.0] C:\Development\AR_tathva\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.2.0\AndroidManifest.xml:18:5-20:19
-MERGED from [com.google.android.gms:play-services-basement:10.2.0] C:\Development\AR_tathva\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.2.0\AndroidManifest.xml:19:5-21:19
 MERGED from [com.google.android.gms:play-services-tasks:10.2.0] C:\Development\AR_tathva\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.2.0\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.2.0] C:\Development\AR_tathva\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.2.0\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.2.0] C:\Development\AR_tathva\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Development\AR_tathva\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Development\AR_tathva\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Development\AR_tathva\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Development\AR_tathva\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Development\AR_tathva\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
 	android:label
 		ADDED from C:\Development\AR_tathva\app\src\main\AndroidManifest.xml:29:9-41
 	android:hardwareAccelerated
@@ -145,6 +146,10 @@ category#android.intent.category.LAUNCHER
 ADDED from C:\Development\AR_tathva\app\src\main\AndroidManifest.xml:54:17-77
 	android:name
 		ADDED from C:\Development\AR_tathva\app\src\main\AndroidManifest.xml:54:27-74
+activity#com.tathva.tathva_live.activity.IntroSliderActivity
+ADDED from C:\Development\AR_tathva\app\src\main\AndroidManifest.xml:57:9-66
+	android:name
+		ADDED from C:\Development\AR_tathva\app\src\main\AndroidManifest.xml:57:19-63
 meta-data#com.google.android.geo.API_KEY
 ADDED from C:\Development\AR_tathva\app\src\main\AndroidManifest.xml:66:9-68:55
 	android:value
