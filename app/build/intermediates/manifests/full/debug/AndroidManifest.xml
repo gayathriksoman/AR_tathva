@@ -29,10 +29,15 @@
         android:required="true" />
 
     <application
+<<<<<<< HEAD
         android:hardwareAccelerated="false"
         android:icon="@mipmap/revelio_icon"
         android:label="@string/app_name"
         android:largeHeap="true"
+=======
+        android:icon="@mipmap/revelio_icon"
+        android:label="@string/app_name"
+>>>>>>> master
         android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
         <activity
             android:name="com.tathva.tathva_live.activity.Demo"

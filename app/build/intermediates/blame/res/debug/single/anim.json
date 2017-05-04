@@ -1,19 +1,33 @@
 [
     {
+<<<<<<< HEAD
         "merged": "D:\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
         "source": "D:\\AR_tathva\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\anim\\abc_popup_enter.xml"
     },
     {
         "merged": "D:\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\anim\\workanimation.xml",
         "source": "D:\\AR_tathva\\app\\src\\main\\res\\anim\\workanimation.xml"
+=======
+        "merged": "C:\\Users\\admin\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\anim\\exhianimation.xml",
+        "source": "C:\\Users\\admin\\AR_tathva\\app\\src\\main\\res\\anim\\exhianimation.xml"
+>>>>>>> master
     },
     {
         "merged": "D:\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\anim\\niteanimation.xml",
         "source": "D:\\AR_tathva\\app\\src\\main\\res\\anim\\niteanimation.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
         "source": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\anim\\abc_popup_exit.xml"
+=======
+        "merged": "D:\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "D:\\AR_tathva\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "D:\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\anim\\workanimation.xml",
+        "source": "D:\\AR_tathva\\app\\src\\main\\res\\anim\\workanimation.xml"
+>>>>>>> master
     },
     {
         "merged": "D:\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\anim\\companimation.xml",
@@ -24,38 +38,115 @@
         "source": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\anim\\niteanimation.xml",
         "source": "C:\\Development\\AR_tathva\\app\\src\\main\\res\\anim\\niteanimation.xml"
+=======
+        "merged": "D:\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\anim\\niteanimation.xml",
+        "source": "D:\\AR_tathva\\app\\src\\main\\res\\anim\\niteanimation.xml"
+    },
+    {
+        "merged": "D:\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\anim\\companimation.xml",
+        "source": "D:\\AR_tathva\\app\\src\\main\\res\\anim\\companimation.xml"
+>>>>>>> master
     },
     {
         "merged": "D:\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
         "source": "D:\\AR_tathva\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\anim\\abc_slide_in_top.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\anim\\workanimation.xml",
         "source": "C:\\Development\\AR_tathva\\app\\src\\main\\res\\anim\\workanimation.xml"
+=======
+        "merged": "D:\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "D:\\AR_tathva\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\anim\\abc_slide_in_top.xml"
+>>>>>>> master
     },
     {
         "merged": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
         "source": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\anim\\abc_fade_out.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
         "source": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\anim\\abc_slide_out_top.xml"
+=======
+        "merged": "D:\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "D:\\AR_tathva\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+>>>>>>> master
     },
     {
         "merged": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\anim\\lectanimation.xml",
         "source": "C:\\Development\\AR_tathva\\app\\src\\main\\res\\anim\\lectanimation.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "D:\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
         "source": "D:\\AR_tathva\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+=======
+        "merged": "D:\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\anim\\lectanimation.xml",
+        "source": "D:\\AR_tathva\\app\\src\\main\\res\\anim\\lectanimation.xml"
+    },
+    {
+        "merged": "D:\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "D:\\AR_tathva\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "D:\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "D:\\AR_tathva\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "D:\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "D:\\AR_tathva\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "D:\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "D:\\AR_tathva\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\anim\\niteanimation.xml",
+        "source": "C:\\Users\\admin\\AR_tathva\\app\\src\\main\\res\\anim\\niteanimation.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\admin\\AR_tathva\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "D:\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "D:\\AR_tathva\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\admin\\AR_tathva\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\anim\\companimation.xml",
+        "source": "C:\\Users\\admin\\AR_tathva\\app\\src\\main\\res\\anim\\companimation.xml"
+    },
+    {
+        "merged": "D:\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "D:\\AR_tathva\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\admin\\AR_tathva\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\anim\\exhianimation.xml",
+        "source": "D:\\AR_tathva\\app\\src\\main\\res\\anim\\exhianimation.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\admin\\AR_tathva\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\anim\\abc_popup_enter.xml"
+>>>>>>> master
     },
     {
         "merged": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
         "source": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\anim\\abc_fade_in.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\anim\\companimation.xml",
         "source": "C:\\Development\\AR_tathva\\app\\src\\main\\res\\anim\\companimation.xml"
     },
@@ -114,6 +205,10 @@
     {
         "merged": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\anim\\exhianimation.xml",
         "source": "C:\\Development\\AR_tathva\\app\\src\\main\\res\\anim\\exhianimation.xml"
+=======
+        "merged": "C:\\Users\\admin\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\anim\\lectanimation.xml",
+        "source": "C:\\Users\\admin\\AR_tathva\\app\\src\\main\\res\\anim\\lectanimation.xml"
+>>>>>>> master
     },
     {
         "merged": "D:\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",

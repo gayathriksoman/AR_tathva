@@ -2,6 +2,17 @@
     {
         "merged": "D:\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu.xml",
         "source": "D:\\AR_tathva\\app\\src\\main\\res\\menu\\menu.xml"
+<<<<<<< HEAD
+=======
+    },
+    {
+        "merged": "D:\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\menu\\mainmenu.xml",
+        "source": "D:\\AR_tathva\\app\\src\\main\\res\\menu\\mainmenu.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu.xml",
+        "source": "C:\\Users\\admin\\AR_tathva\\app\\src\\main\\res\\menu\\menu.xml"
+>>>>>>> master
     },
     {
         "merged": "D:\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\menu\\mainmenu.xml",

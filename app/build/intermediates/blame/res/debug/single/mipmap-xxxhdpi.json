@@ -2,6 +2,7 @@
     {
         "merged": "D:\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\nitc.png",
         "source": "D:\\AR_tathva\\app\\src\\main\\res\\mipmap-xxxhdpi\\nitc.png"
+<<<<<<< HEAD
     },
     {
         "merged": "C:\\Development\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\revelio_icon.png",
@@ -14,5 +15,19 @@
     {
         "merged": "D:\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\revelio_icon.png",
         "source": "D:\\AR_tathva\\app\\src\\main\\res\\mipmap-xxxhdpi\\revelio_icon.png"
+=======
+    },
+    {
+        "merged": "C:\\Users\\admin\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\revelio_icon.png",
+        "source": "C:\\Users\\admin\\AR_tathva\\app\\src\\main\\res\\mipmap-xxxhdpi\\revelio_icon.png"
+    },
+    {
+        "merged": "D:\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\revelio_icon.png",
+        "source": "D:\\AR_tathva\\app\\src\\main\\res\\mipmap-xxxhdpi\\revelio_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AR_tathva\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\nitc.png",
+        "source": "C:\\Users\\admin\\AR_tathva\\app\\src\\main\\res\\mipmap-xxxhdpi\\nitc.png"
+>>>>>>> master
     }
 ]

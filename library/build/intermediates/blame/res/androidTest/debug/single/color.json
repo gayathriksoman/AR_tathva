@@ -2,6 +2,7 @@
     {
         "merged": "D:\\AR_tathva\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\vpi__light_theme.xml",
         "source": "D:\\AR_tathva\\library\\build\\intermediates\\bundles\\debug\\res\\color\\vpi__light_theme.xml"
+<<<<<<< HEAD
     },
     {
         "merged": "C:\\Development\\AR_tathva\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\vpi__dark_theme.xml",
@@ -10,6 +11,16 @@
     {
         "merged": "C:\\Development\\AR_tathva\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\vpi__light_theme.xml",
         "source": "C:\\Development\\AR_tathva\\library\\build\\intermediates\\bundles\\debug\\res\\color\\vpi__light_theme.xml"
+=======
+    },
+    {
+        "merged": "C:\\Users\\admin\\AR_tathva\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\vpi__dark_theme.xml",
+        "source": "C:\\Users\\admin\\AR_tathva\\library\\build\\intermediates\\bundles\\debug\\res\\color\\vpi__dark_theme.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AR_tathva\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\vpi__light_theme.xml",
+        "source": "C:\\Users\\admin\\AR_tathva\\library\\build\\intermediates\\bundles\\debug\\res\\color\\vpi__light_theme.xml"
+>>>>>>> master
     },
     {
         "merged": "D:\\AR_tathva\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\vpi__dark_theme.xml",
